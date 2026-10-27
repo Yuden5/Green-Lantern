@@ -1,0 +1,2404 @@
+{
+ "url": "http://127.0.0.1:4173/#/district-analysis",
+ "at": "2026-10-25T05:59:00.943Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 22,
+    "css": 22,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4589,
+     "screens": 5.1,
+     "words": 343,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "suan_luang-BPAT_Unu.jpg",
+      "suan-luang-rama-ix-03-CwUKDkgX.jpg",
+      "suan-luang-rama-ix-05-CZCBnTZQ.jpg",
+      "suan-luang-rama-ix-07-CCu5aZVH.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Suan Luang, in green",
+     "words": 4,
+     "chars": 20,
+     "lines": 2,
+     "size": 104,
+     "vw": 7.2,
+     "font": "Aptos Display",
+     "weight": 700,
+     "tracking": -0.075,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.38,
+     "top": 281,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Suan Luang, in green",
+     "words": 4,
+     "lines": 2,
+     "size": 104,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "Suan Luang, in green",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 104,
+      "vw": 7.2,
+      "font": "Aptos Display",
+      "weight": 700,
+      "tracking": -0.075,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 281,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "District Profile",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 62,
+      "vw": 4.3,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 888,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "20/50",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.15,
+      "top": 1112,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "1.69 m²",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.15,
+      "top": 1112,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "123,291",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.15,
+      "top": 1135,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "6.09 m²",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.15,
+      "top": 1135,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Green Space Distribution",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 62,
+      "vw": 4.3,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 1840,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Open the official interactive map",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.05,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 2133,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "18,650.8 m²",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.045,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.14,
+      "top": 2557,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "9 + 1",
+      "words": 3,
+      "chars": 5,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.045,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 2557,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "3",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.045,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.01,
+      "top": 2557,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Green Site Comparison",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 42,
+      "vw": 2.9,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.045,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 2807,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "50.00 m²",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Aptos",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.1,
+      "top": 3005,
+      "tag": "output",
+      "kind": "heading"
+     },
+     {
+      "text": "What the site areas show",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 46,
+      "vw": 3.2,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.58,
+      "top": 3811,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.91,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.09,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      15,
+      16,
+      17,
+      20,
+      23,
+      26,
+      36,
+      40,
+      42,
+      46,
+      48,
+      54,
+      62,
+      104
+     ],
+     "sizeCount": 15,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 17,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.9
+     },
+     "measureChars": 73,
+     "max": {
+      "size": 104,
+      "vw": 7.2,
+      "font": "Aptos Display",
+      "text": "Suan Luang, in green"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f4f7f3",
+       "top": 0,
+       "hsl": {
+        "h": 105,
+        "s": 0.2,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#173e2d",
+       "top": 2003,
+       "hsl": {
+        "h": 154,
+        "s": 0.46,
+        "l": 0.17
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 2935,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#294435",
+       "share": 0.65
+      },
+      {
+       "color": "#173e2d",
+       "share": 0.1
+      },
+      {
+       "color": "#e2e8d8",
+       "share": 0.06
+      },
+      {
+       "color": "#476050",
+       "share": 0.05
+      },
+      {
+       "color": "#365442",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#d9ebad",
+      "hsl": {
+       "h": 77,
+       "s": 0.61,
+       "l": 0.8
+      },
+      "fg": "#173e2d"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": 0,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 1051
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.22
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4589,
+    "margins": {
+     "left": 100,
+     "right": 148
+    },
+    "sections": [
+     {
+      "sel": "header.district-hero",
+      "tag": "header",
+      "top": 72,
+      "height": 712,
+      "words": 18,
+      "media": 1,
+      "middle": 104,
+      "heading": {
+       "text": "Suan Luang, in green",
+       "size": 104,
+       "tag": "h1"
+      },
+      "left": 100,
+      "right": 100,
+      "textLeft": 100,
+      "textRight": 805,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.district-section.district-profile-section",
+      "tag": "section",
+      "top": 784,
+      "height": 924,
+      "words": 54,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "District Profile",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 99,
+      "right": 99,
+      "textLeft": 100,
+      "textRight": 158,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.district-map-feature",
+      "tag": "div",
+      "top": 2003,
+      "height": 454,
+      "words": 33,
+      "media": 0,
+      "middle": 240,
+      "heading": {
+       "text": "Open the official interactive map",
+       "size": 48,
+       "tag": "h3"
+      },
+      "left": 176,
+      "right": 268,
+      "textLeft": 176,
+      "textRight": 268,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.district-highlights-card",
+      "tag": "div",
+      "top": 2505,
+      "height": 190,
+      "words": 23,
+      "media": 0,
+      "middle": 170,
+      "heading": {
+       "text": "18,650.8 m²",
+       "size": 40,
+       "tag": "div"
+      },
+      "left": 152,
+      "right": 230,
+      "textLeft": 152,
+      "textRight": 230,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.site-chart-section",
+      "tag": "section",
+      "top": 2807,
+      "height": 784,
+      "words": 76,
+      "media": 0,
+      "middle": 28,
+      "heading": {
+       "text": "Green Site Comparison",
+       "size": 42,
+       "tag": "h3"
+      },
+      "left": 100,
+      "right": 148,
+      "textLeft": 100,
+      "textRight": 160,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Suan Luang, in green",
+      "size": 104,
+      "top": 281,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 100,
+      "n": 11
+     },
+     {
+      "x": 176,
+      "n": 2
+     },
+     {
+      "x": 125,
+      "n": 1
+     },
+     {
+      "x": 152,
+      "n": 1
+     },
+     {
+      "x": 549,
+      "n": 1
+     },
+     {
+      "x": 947,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 17,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.13,
+    "voidBox": {
+     "x": 0,
+     "y": 600,
+     "w": 720,
+     "h": 240
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 22,
+    "css": 22,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 3816,
+     "screens": 3.7,
+     "words": 343,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "suan_luang-BPAT_Unu.jpg",
+      "suan-luang-rama-ix-03-CwUKDkgX.jpg",
+      "suan-luang-rama-ix-05-CZCBnTZQ.jpg",
+      "suan-luang-rama-ix-07-CCu5aZVH.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Suan Luang, in green",
+     "words": 4,
+     "chars": 20,
+     "lines": 2,
+     "size": 61.4,
+     "vw": 8,
+     "font": "Aptos Display",
+     "weight": 700,
+     "tracking": -0.075,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.42,
+     "top": 198,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Suan Luang, in green",
+     "words": 4,
+     "lines": 2,
+     "size": 61.4,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "Suan Luang, in green",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 61.4,
+      "vw": 8,
+      "font": "Aptos Display",
+      "weight": 700,
+      "tracking": -0.075,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 198,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "District Profile",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 5,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 589,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "123,291",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 825,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "6.09 m²",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.39,
+      "top": 825,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "20/50",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 1050,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "1.69 m²",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.39,
+      "top": 1050,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Green Space Distribution",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 5,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1512,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Open the official interactive map",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 30.7,
+      "vw": 4,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.05,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 1730,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Greener Bangkok",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Aptos",
+      "weight": 650,
+      "tracking": -0.035,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 1786,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "18,650.8 m²",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 27,
+      "vw": 3.5,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.045,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.18,
+      "top": 2079,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "9 + 1",
+      "words": 3,
+      "chars": 5,
+      "lines": 1,
+      "size": 27,
+      "vw": 3.5,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.045,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 2079,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "3",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 27,
+      "vw": 3.5,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.045,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 2079,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Green Site Comparison",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.045,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2291,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "What the site areas show",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 30.7,
+      "vw": 4,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3154,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.91,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.09,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      15,
+      16,
+      17,
+      19,
+      20,
+      24,
+      26,
+      27,
+      28,
+      31,
+      34,
+      38,
+      61
+     ],
+     "sizeCount": 14,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 17,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.9
+     },
+     "measureChars": 73,
+     "max": {
+      "size": 61.4,
+      "vw": 8,
+      "font": "Aptos Display",
+      "text": "Suan Luang, in green"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f4f7f3",
+       "top": 0,
+       "hsl": {
+        "h": 105,
+        "s": 0.2,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#173e2d",
+       "top": 1630,
+       "hsl": {
+        "h": 154,
+        "s": 0.46,
+        "l": 0.17
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 2398,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#294435",
+       "share": 0.65
+      },
+      {
+       "color": "#173e2d",
+       "share": 0.1
+      },
+      {
+       "color": "#e2e8d8",
+       "share": 0.06
+      },
+      {
+       "color": "#476050",
+       "share": 0.05
+      },
+      {
+       "color": "#365442",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#d9ebad",
+      "hsl": {
+       "h": 77,
+       "s": 0.61,
+       "l": 0.8
+      },
+      "fg": "#173e2d"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": 0,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 707
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.13
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 3816,
+    "margins": {
+     "left": 31,
+     "right": 36
+    },
+    "sections": [
+     {
+      "sel": "header.district-hero",
+      "tag": "header",
+      "top": 72,
+      "height": 456,
+      "words": 18,
+      "media": 1,
+      "middle": 65,
+      "heading": {
+       "text": "Suan Luang, in green",
+       "size": 61,
+       "tag": "h1"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 422,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.district-section.district-profile-section",
+      "tag": "section",
+      "top": 528,
+      "height": 907,
+      "words": 54,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "District Profile",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 30,
+      "right": 30,
+      "textLeft": 31,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.district-map-feature",
+      "tag": "div",
+      "top": 1630,
+      "height": 387,
+      "words": 33,
+      "media": 0,
+      "middle": 67,
+      "heading": {
+       "text": "Open the official interactive map",
+       "size": 31,
+       "tag": "h3"
+      },
+      "left": 77,
+      "right": 136,
+      "textLeft": 77,
+      "textRight": 136,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.district-highlights-card",
+      "tag": "div",
+      "top": 2048,
+      "height": 171,
+      "words": 23,
+      "media": 0,
+      "middle": 89,
+      "heading": {
+       "text": "18,650.8 m²",
+       "size": 27,
+       "tag": "div"
+      },
+      "left": 61,
+      "right": 100,
+      "textLeft": 61,
+      "textRight": 100,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.site-chart-section",
+      "tag": "section",
+      "top": 2291,
+      "height": 729,
+      "words": 76,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Green Site Comparison",
+       "size": 28,
+       "tag": "h3"
+      },
+      "left": 31,
+      "right": 61,
+      "textLeft": 31,
+      "textRight": 73,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.district-narrative",
+      "tag": "div",
+      "top": 3100,
+      "height": 562,
+      "words": 128,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What the site areas show",
+       "size": 31,
+       "tag": "h3"
+      },
+      "left": 31,
+      "right": 75,
+      "textLeft": 31,
+      "textRight": 75,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Suan Luang, in green",
+      "size": 61,
+      "top": 198,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 31,
+      "n": 11
+     },
+     {
+      "x": 56,
+      "n": 2
+     },
+     {
+      "x": 77,
+      "n": 2
+     },
+     {
+      "x": 287,
+      "n": 1
+     },
+     {
+      "x": 512,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 17,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 22,
+    "css": 22,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5685,
+     "screens": 6.7,
+     "words": 343,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "suan_luang-BPAT_Unu.jpg",
+      "suan-luang-rama-ix-03-CwUKDkgX.jpg",
+      "suan-luang-rama-ix-05-CZCBnTZQ.jpg",
+      "suan-luang-rama-ix-07-CCu5aZVH.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Suan Luang, in green",
+     "words": 4,
+     "chars": 20,
+     "lines": 2,
+     "size": 48,
+     "vw": 12.3,
+     "font": "Aptos Display",
+     "weight": 700,
+     "tracking": -0.075,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 118,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Suan Luang, in green",
+     "words": 4,
+     "lines": 2,
+     "size": 48,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "Suan Luang, in green",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Aptos Display",
+      "weight": 700,
+      "tracking": -0.075,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 118,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "District Profile",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 722,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "123,291",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 908,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "6.09 m²",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1070,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "20/50",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1232,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "1.69 m²",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.06,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1394,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Green Space Distribution",
+      "words": 3,
+      "chars": 24,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2430,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Open the official interactive map",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.05,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 2682,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Greener Bangkok",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Aptos",
+      "weight": 650,
+      "tracking": -0.035,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.51,
+      "top": 3038,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "18,650.8 m²",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.045,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 3219,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "9 + 1",
+      "words": 3,
+      "chars": 5,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.045,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.17,
+      "top": 3316,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "3",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.045,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.04,
+      "top": 3413,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Green Site Comparison",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.045,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3580,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "50.00 m²",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Aptos",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.24,
+      "top": 3775,
+      "tag": "output",
+      "kind": "heading"
+     },
+     {
+      "text": "What the site areas show",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4809,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 15,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.91,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.09,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      24,
+      26,
+      28,
+      30,
+      36,
+      40,
+      48
+     ],
+     "sizeCount": 14,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 17,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.9
+     },
+     "measureChars": 41,
+     "max": {
+      "size": 48,
+      "vw": 12.3,
+      "font": "Aptos Display",
+      "text": "Suan Luang, in green"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f4f7f3",
+       "top": 0,
+       "hsl": {
+        "h": 105,
+        "s": 0.2,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#173e2d",
+       "top": 2600,
+       "hsl": {
+        "h": 154,
+        "s": 0.46,
+        "l": 0.17
+       }
+      },
+      {
+       "color": "#e8eee1",
+       "top": 3191,
+       "hsl": {
+        "h": 88,
+        "s": 0.28,
+        "l": 0.91
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 3715,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#294435",
+       "share": 0.65
+      },
+      {
+       "color": "#173e2d",
+       "share": 0.1
+      },
+      {
+       "color": "#e2e8d8",
+       "share": 0.06
+      },
+      {
+       "color": "#476050",
+       "share": 0.05
+      },
+      {
+       "color": "#365442",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#d9ebad",
+      "hsl": {
+       "h": 77,
+       "s": 0.61,
+       "l": 0.8
+      },
+      "fg": "#173e2d"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": 0,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 856
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.3
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 60,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5685,
+    "margins": {
+     "left": 19,
+     "right": 19
+    },
+    "sections": [
+     {
+      "sel": "header.district-hero",
+      "tag": "header",
+      "top": 60,
+      "height": 606,
+      "words": 18,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Suan Luang, in green",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.district-profile-grid",
+      "tag": "div",
+      "top": 856,
+      "height": 636,
+      "words": 25,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "123,291",
+       "size": 40,
+       "tag": "div"
+      },
+      "left": 44,
+      "right": 103,
+      "textLeft": 44,
+      "textRight": 103,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.district-photo-run",
+      "tag": "div",
+      "top": 1524,
+      "height": 793,
+      "words": 20,
+      "media": 3,
+      "middle": 0,
+      "heading": null,
+      "left": 19,
+      "right": 19,
+      "textLeft": 20,
+      "textRight": 122,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.district-section-heading",
+      "tag": "div",
+      "top": 2430,
+      "height": 140,
+      "words": 13,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 32,
+      "textLeft": 20,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.district-map-feature",
+      "tag": "div",
+      "top": 2600,
+      "height": 563,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Open the official interactive map",
+       "size": 30,
+       "tag": "h3"
+      },
+      "left": 48,
+      "right": 53,
+      "textLeft": 48,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.district-highlights-card",
+      "tag": "div",
+      "top": 3191,
+      "height": 325,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "18,650.8 m²",
+       "size": 30,
+       "tag": "div"
+      },
+      "left": 48,
+      "right": 80,
+      "textLeft": 48,
+      "textRight": 80,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.site-chart-section",
+      "tag": "section",
+      "top": 3580,
+      "height": 1116,
+      "words": 76,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Green Site Comparison",
+       "size": 28,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 34,
+      "textLeft": 20,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.district-narrative",
+      "tag": "div",
+      "top": 4777,
+      "height": 764,
+      "words": 128,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What the site areas show",
+       "size": 30,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 23,
+      "textLeft": 20,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Suan Luang, in green",
+      "size": 48,
+      "top": 118,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 11
+     },
+     {
+      "x": 45,
+      "n": 6
+     }
+    ],
+    "leftBlocks": 17,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "15 different font sizes (14, 15, 16, 17, 20, 23, 26, 36, 40, 42, 46, 48, 54, 62, 104).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 100px on the left, 148px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-district-2\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-district-2\\desktop-page-01.jpg",
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-district-2\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-district-2\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-district-2\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-district-2\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-district-2\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

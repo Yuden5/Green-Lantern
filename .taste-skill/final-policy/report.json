@@ -1,0 +1,2130 @@
+{
+ "url": "http://127.0.0.1:4173/#/policy",
+ "at": "2026-10-25T05:55:28.715Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    1,
+    0.98,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 21,
+    "css": 21,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4461,
+     "screens": 5,
+     "words": 381,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "greenbkk-DOUEGNvS.png",
+      "suan-luang-rama-ix-03-CwUKDkgX.jpg",
+      "suan-luang-rama-ix-05-CZCBnTZQ.jpg",
+      "suan-luang-rama-ix-07-CCu5aZVH.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bangkok’s green targets",
+     "words": 3,
+     "chars": 23,
+     "lines": 2,
+     "size": 80,
+     "vw": 5.6,
+     "font": "Aptos Display",
+     "weight": 720,
+     "tracking": -0.075,
+     "leading": 0.94,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.51,
+     "top": 184,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Bangkok’s green targets",
+     "words": 3,
+     "lines": 2,
+     "size": 80,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "Bangkok’s green targets",
+      "words": 3,
+      "chars": 23,
+      "lines": 2,
+      "size": 80,
+      "vw": 5.6,
+      "font": "Aptos Display",
+      "weight": 720,
+      "tracking": -0.075,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 184,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The targets",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 767,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "50%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.07,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.1,
+      "top": 969,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "10m²",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 80,
+      "vw": 5.6,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.07,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 1018,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "30%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.07,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.1,
+      "top": 1149,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Reported delivery",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 1604,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Green space, seen in place",
+      "words": 5,
+      "chars": 26,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 2547,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "From policy to implementation",
+      "words": 4,
+      "chars": 29,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 3317,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What the total cannot tell us",
+      "words": 6,
+      "chars": 29,
+      "lines": 2,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 3901,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      16,
+      18,
+      22,
+      40,
+      80
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 18,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.9
+     },
+     "measureChars": 65,
+     "max": {
+      "size": 80,
+      "vw": 5.6,
+      "font": "Aptos Display",
+      "text": "Bangkok’s green targets"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f4f7f3",
+       "top": 0,
+       "hsl": {
+        "h": 105,
+        "s": 0.2,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#e8eee1",
+       "top": 1604,
+       "hsl": {
+        "h": 88,
+        "s": 0.28,
+        "l": 0.91
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#476050",
+       "share": 0.4
+      },
+      {
+       "color": "#294435",
+       "share": 0.38
+      },
+      {
+       "color": "#173e2d",
+       "share": 0.15
+      },
+      {
+       "color": "#1d5639",
+       "share": 0.04
+      },
+      {
+       "color": "#f4f7f3",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#173e2d",
+      "hsl": {
+       "h": 154,
+       "s": 0.46,
+       "l": 0.17
+      },
+      "fg": "#f4f7f3"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 5,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4461,
+    "margins": {
+     "left": 120,
+     "right": 120
+    },
+    "sections": [
+     {
+      "sel": "header.policy-hero",
+      "tag": "header",
+      "top": 72,
+      "height": 591,
+      "words": 49,
+      "media": 1,
+      "middle": 304,
+      "heading": {
+       "text": "Bangkok’s green targets",
+       "size": 80,
+       "tag": "h1"
+      },
+      "left": 120,
+      "right": 240,
+      "textLeft": 120,
+      "textRight": 249,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#policy-targets.policy-section.policy-targets-section",
+      "tag": "section",
+      "top": 663,
+      "height": 837,
+      "words": 69,
+      "media": 0,
+      "middle": 133,
+      "heading": {
+       "text": "10",
+       "size": 80,
+       "tag": "span"
+      },
+      "left": 120,
+      "right": 167,
+      "textLeft": 120,
+      "textRight": 167,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-performance-section",
+      "tag": "section",
+      "top": 1500,
+      "height": 944,
+      "words": 100,
+      "media": 0,
+      "middle": 185,
+      "heading": {
+       "text": "Reported delivery",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 120,
+      "right": 172,
+      "textLeft": 120,
+      "textRight": 172,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-place-section",
+      "tag": "section",
+      "top": 2443,
+      "height": 770,
+      "words": 37,
+      "media": 3,
+      "middle": 14,
+      "heading": {
+       "text": "Green space, seen in place",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 118,
+      "right": 118,
+      "textLeft": 120,
+      "textRight": 120,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-timeline-section",
+      "tag": "section",
+      "top": 3213,
+      "height": 584,
+      "words": 55,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "From policy to implementation",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 120,
+      "right": 196,
+      "textLeft": 120,
+      "textRight": 196,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-gap-section",
+      "tag": "section",
+      "top": 3797,
+      "height": 504,
+      "words": 73,
+      "media": 0,
+      "middle": 119,
+      "heading": {
+       "text": "What the total cannot tell us",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 120,
+      "right": 147,
+      "textLeft": 120,
+      "textRight": 147,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 2268,
+      "height": 272
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Bangkok’s green targets",
+      "size": 80,
+      "top": 184,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 120,
+      "n": 13
+     },
+     {
+      "x": 774,
+      "n": 2
+     },
+     {
+      "x": 964,
+      "n": 2
+     },
+     {
+      "x": 145,
+      "n": 1
+     },
+     {
+      "x": 184,
+      "n": 1
+     },
+     {
+      "x": 638,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.25,
+    "voidBox": {
+     "x": 660,
+     "y": 480,
+     "w": 780,
+     "h": 420
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.98,
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 21,
+    "css": 21,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4302,
+     "screens": 4.2,
+     "words": 381,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "greenbkk-DOUEGNvS.png",
+      "suan-luang-rama-ix-03-CwUKDkgX.jpg",
+      "suan-luang-rama-ix-05-CZCBnTZQ.jpg",
+      "suan-luang-rama-ix-07-CCu5aZVH.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bangkok’s green targets",
+     "words": 3,
+     "chars": 23,
+     "lines": 2,
+     "size": 80,
+     "vw": 10.4,
+     "font": "Aptos Display",
+     "weight": 720,
+     "tracking": -0.075,
+     "leading": 0.94,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.58,
+     "top": 133,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Bangkok’s green targets",
+     "words": 3,
+     "lines": 2,
+     "size": 80,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "Bangkok’s green targets",
+      "words": 3,
+      "chars": 23,
+      "lines": 2,
+      "size": 80,
+      "vw": 10.4,
+      "font": "Aptos Display",
+      "weight": 720,
+      "tracking": -0.075,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.58,
+      "top": 133,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The targets",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 647,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "50%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.07,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.14,
+      "top": 841,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "10m²",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 80,
+      "vw": 10.4,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.07,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.15,
+      "top": 935,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "30%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.07,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.14,
+      "top": 1024,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Reported delivery",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 1411,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Green space, seen in place",
+      "words": 5,
+      "chars": 26,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 2370,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "From policy to implementation",
+      "words": 4,
+      "chars": 29,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 3101,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What the total cannot tell us",
+      "words": 6,
+      "chars": 29,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.68,
+      "top": 3594,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      16,
+      18,
+      22,
+      40,
+      80
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 18,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.9
+     },
+     "measureChars": 49,
+     "max": {
+      "size": 80,
+      "vw": 10.4,
+      "font": "Aptos Display",
+      "text": "Bangkok’s green targets"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f4f7f3",
+       "top": 0,
+       "hsl": {
+        "h": 105,
+        "s": 0.2,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#e8eee1",
+       "top": 1554,
+       "hsl": {
+        "h": 88,
+        "s": 0.28,
+        "l": 0.91
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#476050",
+       "share": 0.4
+      },
+      {
+       "color": "#294435",
+       "share": 0.38
+      },
+      {
+       "color": "#173e2d",
+       "share": 0.15
+      },
+      {
+       "color": "#1d5639",
+       "share": 0.04
+      },
+      {
+       "color": "#f4f7f3",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#173e2d",
+      "hsl": {
+       "h": 154,
+       "s": 0.46,
+       "l": 0.17
+      },
+      "fg": "#f4f7f3"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 5,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4302,
+    "margins": {
+     "left": 35,
+     "right": 40
+    },
+    "sections": [
+     {
+      "sel": "header.policy-hero",
+      "tag": "header",
+      "top": 72,
+      "height": 513,
+      "words": 49,
+      "media": 1,
+      "middle": 74,
+      "heading": {
+       "text": "Bangkok’s green targets",
+       "size": 80,
+       "tag": "h1"
+      },
+      "left": 35,
+      "right": 77,
+      "textLeft": 35,
+      "textRight": 77,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#policy-targets.policy-section.policy-targets-section",
+      "tag": "section",
+      "top": 585,
+      "height": 764,
+      "words": 69,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "10",
+       "size": 80,
+       "tag": "span"
+      },
+      "left": 35,
+      "right": 40,
+      "textLeft": 35,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-performance-section",
+      "tag": "section",
+      "top": 1349,
+      "height": 959,
+      "words": 100,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Reported delivery",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 35,
+      "right": 65,
+      "textLeft": 35,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-place-section",
+      "tag": "section",
+      "top": 2308,
+      "height": 731,
+      "words": 37,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Green space, seen in place",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 33,
+      "right": 34,
+      "textLeft": 35,
+      "textRight": 127,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-timeline-section",
+      "tag": "section",
+      "top": 3039,
+      "height": 494,
+      "words": 55,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "From policy to implementation",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 35,
+      "right": 69,
+      "textLeft": 35,
+      "textRight": 69,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-gap-section",
+      "tag": "section",
+      "top": 3533,
+      "height": 677,
+      "words": 73,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What the total cannot tell us",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 35,
+      "right": 47,
+      "textLeft": 35,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Bangkok’s green targets",
+      "size": 80,
+      "top": 133,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 35,
+      "n": 13
+     },
+     {
+      "x": 415,
+      "n": 2
+     },
+     {
+      "x": 552,
+      "n": 2
+     },
+     {
+      "x": 60,
+      "n": 1
+     },
+     {
+      "x": 73,
+      "n": 1
+     },
+     {
+      "x": 90,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    1,
+    0.93,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 21,
+    "css": 21,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6116,
+     "screens": 7.2,
+     "words": 381,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "suan-luang-rama-ix-03-CwUKDkgX.jpg",
+      "suan-luang-rama-ix-05-CZCBnTZQ.jpg",
+      "suan-luang-rama-ix-07-CCu5aZVH.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bangkok’s green targets",
+     "words": 3,
+     "chars": 23,
+     "lines": 2,
+     "size": 40,
+     "vw": 10.3,
+     "font": "Aptos Display",
+     "weight": 720,
+     "tracking": -0.075,
+     "leading": 0.98,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 124,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Bangkok’s green targets",
+     "words": 3,
+     "lines": 2,
+     "size": 40,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "Bangkok’s green targets",
+      "words": 3,
+      "chars": 23,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos Display",
+      "weight": 720,
+      "tracking": -0.075,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 124,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The targets",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 827,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "10m²",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 80,
+      "vw": 20.5,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.07,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 1041,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Green space per person",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Aptos Display",
+      "weight": 620,
+      "tracking": -0.025,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.57,
+      "top": 1135,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "City within 400 m of green space",
+      "words": 7,
+      "chars": 32,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Aptos Display",
+      "weight": 620,
+      "tracking": -0.025,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.59,
+      "top": 1280,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "50%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.07,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 1311,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Urban tree canopy target",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Aptos Display",
+      "weight": 620,
+      "tracking": -0.025,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.59,
+      "top": 1436,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "30%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos",
+      "weight": 680,
+      "tracking": -0.07,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 1467,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Reported delivery",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1904,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Green space, seen in place",
+      "words": 5,
+      "chars": 26,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3137,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "From policy to implementation",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4463,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Green Bangkok 2030 launched",
+      "words": 4,
+      "chars": 27,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Aptos Display",
+      "weight": 620,
+      "tracking": -0.035,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4710,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "15-Minute Park initiative",
+      "words": 3,
+      "chars": 25,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Aptos Display",
+      "weight": 620,
+      "tracking": -0.035,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4897,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "What the total cannot tell us",
+      "words": 6,
+      "chars": 29,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Aptos Display",
+      "weight": 650,
+      "tracking": -0.055,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5179,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Unequal access Are green spaces distributed fairly?",
+      "words": 7,
+      "chars": 51,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Aptos",
+      "weight": 620,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5566,
+      "tag": "li",
+      "kind": "statement"
+     },
+     {
+      "text": "Underused land Where could additional green spaces be created?",
+      "words": 9,
+      "chars": 62,
+      "lines": 3,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Aptos",
+      "weight": 620,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5680,
+      "tag": "li",
+      "kind": "statement"
+     },
+     {
+      "text": "Walking accessibility Which areas may fall outside practical walking distance of existing parks?",
+      "words": 13,
+      "chars": 96,
+      "lines": 3,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Aptos",
+      "weight": 620,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5822,
+      "tag": "li",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 3,
+     "over2Lines": 0,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      22,
+      40,
+      80
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 18,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.9
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 80,
+      "vw": 20.5,
+      "font": "Aptos",
+      "text": "10"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f4f7f3",
+       "top": 0,
+       "hsl": {
+        "h": 105,
+        "s": 0.2,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#e8eee1",
+       "top": 2107,
+       "hsl": {
+        "h": 88,
+        "s": 0.28,
+        "l": 0.91
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#476050",
+       "share": 0.4
+      },
+      {
+       "color": "#294435",
+       "share": 0.38
+      },
+      {
+       "color": "#173e2d",
+       "share": 0.15
+      },
+      {
+       "color": "#1d5639",
+       "share": 0.04
+      },
+      {
+       "color": "#f4f7f3",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#173e2d",
+      "hsl": {
+       "h": 154,
+       "s": 0.46,
+       "l": 0.17
+      },
+      "fg": "#f4f7f3"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 5,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 3320
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 60,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6116,
+    "margins": {
+     "left": 18,
+     "right": 18
+    },
+    "sections": [
+     {
+      "sel": "header.policy-hero",
+      "tag": "header",
+      "top": 60,
+      "height": 703,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Bangkok’s green targets",
+       "size": 40,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 42,
+      "textLeft": 20,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#policy-targets.policy-section.policy-targets-section",
+      "tag": "section",
+      "top": 763,
+      "height": 1078,
+      "words": 69,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "10",
+       "size": 80,
+       "tag": "span"
+      },
+      "left": 20,
+      "right": 32,
+      "textLeft": 20,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-performance-section",
+      "tag": "section",
+      "top": 1840,
+      "height": 1232,
+      "words": 100,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Reported delivery",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 23,
+      "textLeft": 20,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-place-section",
+      "tag": "section",
+      "top": 3073,
+      "height": 1326,
+      "words": 37,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Green space, seen in place",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 18,
+      "right": 18,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-timeline-section",
+      "tag": "section",
+      "top": 4399,
+      "height": 716,
+      "words": 55,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "From policy to implementation",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 26,
+      "textLeft": 20,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section.policy-gap-section",
+      "tag": "section",
+      "top": 5115,
+      "height": 913,
+      "words": 73,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What the total cannot tell us",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 51,
+      "textLeft": 20,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Bangkok’s green targets",
+      "size": 40,
+      "top": 124,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 15
+     },
+     {
+      "x": 45,
+      "n": 2
+     },
+     {
+      "x": 140,
+      "n": 2
+     },
+     {
+      "x": 63,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-policy\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-policy\\desktop-page-01.jpg",
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-policy\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-policy\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-policy\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-policy\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\final-policy\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

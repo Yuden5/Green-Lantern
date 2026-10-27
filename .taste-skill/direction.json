@@ -1,0 +1,458 @@
+{
+ "version": 1,
+ "at": "2026-10-25T07:11:38.114Z",
+ "seed": 1027459227,
+ "redraws": 0,
+ "input": {
+  "brief": "Bangkok green-space targets translated into neighborhood evidence for GISTDA GeoHackathon 2026",
+  "sector": "nonprofit",
+  "tone": "editorial",
+  "have": [
+   "photography",
+   "illustration"
+  ],
+  "keep": [
+   "palette",
+   "type"
+  ],
+  "avoid": [],
+  "sections": [
+   "intro",
+   "proof",
+   "stats",
+   "how-it-works",
+   "about"
+  ],
+  "direction": "editorial-report"
+ },
+ "imagery": "own",
+ "allow": [],
+ "direction": {
+  "id": "editorial-report",
+  "name": "The printed annual",
+  "sectors": [
+   "culture",
+   "nonprofit",
+   "education",
+   "finance",
+   "saas",
+   "ai-product",
+   "health",
+   "agency",
+   "other"
+  ],
+  "tones": [
+   "editorial",
+   "bold"
+  ],
+  "needs": [],
+  "idea": "Lay the page out like a well-designed printed report or magazine feature: a masthead image, a tight oversized title, text held to a strict column line, and colour used in solid blocks the way a two-colour print job would. It gives weight and authority to subjects that are really about content: findings, a manifesto, a programme, a serious product. The reader should feel that someone edited this.",
+  "composition": "A fixed vertical axis at about 42% of the viewport width organises everything: headings begin on it, body columns hang from it, and the 0–42% zone holds small side notes, figures or stays empty. Masthead: a wide image band (photographic mosaic or a single crop) across the top 45% of the first screen; below it the title at 7–9vw starting on the axis, with a two-sentence standfirst at 20–24px. Sections alternate between text pages (title on the axis, body in one or two columns of 34–40ch to its right) and full-bleed colour pages carrying one large figure, quotation or image mosaic. Mosaics are gutterless: photographs and flat colour tiles butted together in a 4- or 6-cell grid. Page numbers, running heads and other print furniture are left out.",
+  "typography": "A tight heavy grotesk or a sharp serif for titles; an excellent text face for reading at 18–20px with leading near 1.5. Headings in sentence case, tracked tight.",
+  "typeClasses": [
+   "grotesk-tight",
+   "serif-display",
+   "serif-text"
+  ],
+  "colour": "Paper, ink and two or three solid block colours. A colour page is a whole section in one flat colour.",
+  "paletteTags": [
+   "flat-loud",
+   "two-tone",
+   "mono-accent"
+  ],
+  "imagery": "Photographs used as blocks in mosaics alongside flat colour tiles; mixed subjects are fine if cropped tight and converted to one treatment.",
+  "photoTreatment": "Give all photographs in a mosaic one treatment: greyscale via `filter: grayscale(1) contrast(1.05)`, or all full colour. Do not mix.",
+  "sectionTags": [
+   "type-led",
+   "colour-field",
+   "dense",
+   "poster"
+  ],
+  "motion": "masked-headline",
+  "richness": "The column line, the mosaics and whole pages of colour give structure and variety without ornaments.",
+  "pitfalls": "The axis must be exact and reused everywhere or it reads as random indentation. Keep paragraphs to a real reading measure. On a phone the axis collapses to the left margin and side notes move inline above their paragraph.",
+  "seenIn": [
+   "aww-ai-in-design-report-2026",
+   "opl-applied-imagination",
+   "opl-the-queue",
+   "opl-artem-taradash",
+   "opl-belgrade-architecture"
+  ],
+  "allow": []
+ },
+ "hero": {
+  "id": "void-then-statement-on-axis",
+  "name": "Void, then statement on axis",
+  "archetype": "bottom-anchored-type",
+  "directions": [
+   "type-only-statement",
+   "editorial-report"
+  ],
+  "needs": [],
+  "blueprint": "A deliberate void: the upper 60% of the viewport holds nothing but the top row. That row, 44px from the top on 48px margins, has the wordmark at the left margin, two text links starting exactly on a vertical axis at 42% of the width, and the single action at the right margin as a text link. Everything else hangs from the same axis in the bottom third. The statement starts on the 42% line: two lines at clamp(56px, 6.6vw, 104px), regular or medium weight, tracking -0.04em, leading 0.95, running towards the right margin, with its last baseline 72px above the bottom edge. Left of the axis, in columns 1-4, one supporting sentence at 18px in the soft ink, max 32ch, is bottom-aligned to the statement's last baseline. Nothing sits in the left zone above it. No image and no shape; the ground is one flat tone and the ink one colour. The emptiness is composed: three elements share the axis, so the blank area reads as intended and not as a page that failed to load.",
+  "mobile": "The axis collapses to the 20px left margin. The top 48% of the screen stays empty under the wordmark row. The statement sets at 12.5vw on two lines, flush left, followed by the sentence at 17px and the action as a text link, the whole block ending 28px above the bottom edge. The two links fold behind a menu word.",
+  "headline": "A 3-6 word statement, at most 30 characters over two lines, about 15 per line at 6.6vw from the axis.",
+  "motion": "masked-headline",
+  "seenIn": [
+   "opl-lovably",
+   "aww-ai-in-design-report-2026",
+   "opl-tiny-computer-co",
+   "aww-cerebrium"
+  ]
+ },
+ "type": null,
+ "palette": null,
+ "photos": {
+  "set": "forest",
+  "title": "Forest",
+  "note": "woodland, paths between trees, moss and filtered light",
+  "treatment": "Give all photographs in a mosaic one treatment: greyscale via `filter: grayscale(1) contrast(1.05)`, or all full colour. Do not mix.",
+  "others": [
+   "field-and-farm",
+   "people",
+   "plants-and-flowers",
+   "water"
+  ],
+  "photos": [
+   {
+    "id": 944,
+    "alt": "Wooden footbridge with railings leading into lush green forest",
+    "tone": "dark",
+    "colours": [
+     "deep green",
+     "warm brown",
+     "grey"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.5,
+    "by": "Tim Swaan",
+    "page": "https://unsplash.com/photos/eOpewngf68w"
+   },
+   {
+    "id": 919,
+    "alt": "Tall straight pine trunks above a bright green forest floor",
+    "tone": "mid",
+    "colours": [
+     "fresh green",
+     "red brown",
+     "dark brown"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.5,
+    "by": "Jon Ottosson",
+    "page": "https://unsplash.com/photos/JU2MgHOHDsw"
+   },
+   {
+    "id": 216,
+    "alt": "Narrow dirt trail through mossy green woodland",
+    "tone": "mid",
+    "colours": [
+     "moss green",
+     "brown"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.5,
+    "by": "Paul Jarvis",
+    "page": "https://unsplash.com/photos/9702xTENR-M"
+   },
+   {
+    "id": 704,
+    "alt": "Upward view of tall bamboo stems converging in a green canopy",
+    "tone": "dark",
+    "colours": [
+     "dark green",
+     "green",
+     "black"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.5,
+    "by": "Ståle Grut",
+    "page": "https://unsplash.com/photos/NUgw97CVdAk"
+   },
+   {
+    "id": 10,
+    "alt": "Dense evergreen forest with a blue lake and distant hills beyond",
+    "tone": "mid",
+    "colours": [
+     "deep green",
+     "teal blue"
+    ],
+    "mono": false,
+    "calm": "top",
+    "quality": 4,
+    "ratio": 1.5,
+    "by": "Paul Jarvis",
+    "page": "https://unsplash.com/photos/6J--NXulQCs"
+   },
+   {
+    "id": 924,
+    "alt": "Aerial view of autumn forest with orange and dark green treetops",
+    "tone": "dark",
+    "colours": [
+     "burnt orange",
+     "dark green"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.33,
+    "by": "Jakub Sejkora",
+    "page": "https://unsplash.com/photos/utqJcneoFjo"
+   },
+   {
+    "id": 229,
+    "alt": "Path through tall pine trees fading into blue-grey fog",
+    "tone": "dark",
+    "colours": [
+     "blue grey",
+     "dark green"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 5,
+    "ratio": 1.5,
+    "by": "Orlova Maria",
+    "page": "https://unsplash.com/photos/7FLh300YONc"
+   },
+   {
+    "id": 879,
+    "alt": "Aerial view of a narrow path cutting through dense dark forest",
+    "tone": "dark",
+    "colours": [
+     "deep green",
+     "dark teal",
+     "grey"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.5,
+    "by": "Nick Scheerbart",
+    "page": "https://unsplash.com/photos/xFjAftU8lMY"
+   }
+  ]
+ },
+ "motion": {
+  "id": "masked-headline",
+  "name": "Masked headline",
+  "description": "On load, each line of the headline rises from behind its own baseline, about 900ms with a strong ease-out, the second line 110ms after the first; the supporting sentence and the action then fade up together. Nothing else on the page performs. Because headlines are two lines at most, you author the line breaks and wrap each line yourself. Recipe: 'Masked line reveal' in references/motion.md."
+ },
+ "sections": [
+  {
+   "id": "intro-right-half-paragraph",
+   "role": "intro",
+   "name": "Right-half paragraph, lone photo",
+   "shape": "split",
+   "tags": [
+    "type-led",
+    "quiet"
+   ],
+   "directions": [
+    "uneven-photographs",
+    "dark-room",
+    "place-carries-it",
+    "editorial-report",
+    "name-as-monument"
+   ],
+   "needs": [],
+   "blueprint": "No heading. On a 12-column grid with 5vw margins, one statement paragraph of 45–70 words occupies columns 7–12 only, set at clamp(24px, 2.2vw, 34px) with leading 1.25 and a first-line indent of 3em. Its top edge sits 18vh below the section top. Columns 1–6 stay empty except for a single square photograph, 20vw wide, in columns 1–3, placed so its top aligns with the paragraph's last line and it hangs below the text by most of its height. A five-line note at 14px, 180px wide, sits in columns 1–2, 96px beneath the photograph. Section padding is 160px top and bottom. Nothing is centred: the paragraph's left edge is the midpoint of the page, and later text blocks on the page may reuse that line. Holds one paragraph, one photograph and one note.",
+   "mobile": "The paragraph comes first at 22px, full width with 20px margins and no indent. The photograph follows at 62% width, pushed to the right margin, in a 4:5 crop instead of square. The small note sits to its left, bottom-aligned with the photograph, in the remaining 30% of the width.",
+   "seenIn": [
+    "aww-tengile-malamala-collection",
+    "aww-normal-is-boring",
+    "aww-px-push",
+    "aww-monolog"
+   ]
+  },
+  {
+   "id": "proof-plain-columns",
+   "role": "proof",
+   "name": "Plain names in columns",
+   "shape": "list",
+   "tags": [
+    "quiet",
+    "type-led"
+   ],
+   "directions": [
+    "quiet-instrument",
+    "contact-sheet",
+    "editorial-report",
+    "split-stage",
+    "uneven-photographs",
+    "place-carries-it"
+   ],
+   "needs": [],
+   "blueprint": "A typographic list with no logos. The heading, two or three words at 28–32px, sits in columns 1–3 and stays top-aligned with the first row of names. Columns 5–12 hold the names in three or four text columns (`columns: 4; column-gap: 32px`), each name on its own line at 20–22px with leading 1.5, sentence case, in the full ink. Where names fall into kinds (clients, press, partners), each kind starts a new column and its first line names the kind in the softer ink at the same size, so no small labels are needed. Columns are of unequal length and are not balanced; ragged bottoms are intended. Twelve to thirty names work best. There are no boxes, bullets or separators: the column edges and the shared baseline do the organising. Leave 120px above and below.",
+   "mobile": "The heading leads at 26px. Names follow in two columns at 17px with a 20px gap; each kind begins after a 32px break with its name in the softer ink on the first line. Long names wrap inside their column rather than shrinking.",
+   "seenIn": [
+    "opl-ayush-halder-portfolio"
+   ]
+  },
+  {
+   "id": "stats-figures-inside-a-sentence",
+   "role": "stats",
+   "name": "Figures inside a sentence",
+   "shape": "statement",
+   "tags": [
+    "type-led",
+    "quiet"
+   ],
+   "directions": [
+    "sentence-as-layout",
+    "type-only-statement",
+    "dark-room",
+    "editorial-report"
+   ],
+   "needs": [],
+   "blueprint": "The numbers are written into prose and the prose is set at display size. One paragraph of two or three sentences, 22–34 words, containing three or four true figures, in the pattern 'Since 2014 we have rebuilt 340 roofs in 9 towns, and 312 of them have never leaked.' Set at clamp(32px, 4.4vw, 72px), leading 1.12, in columns 2–11, left-aligned and vertically centred in a section of 80–90svh with nothing else in it. Words are in the soft ink at regular weight; the figures alone are in full ink (or the accent) at the same size, in lining numerals, with non-breaking spaces binding each figure to its unit. No boxes, underlines or colour chips behind the figures. A visually hidden two-word heading names the section for structure; to the eye the paragraph stands alone. On a deep ground use a light weight and a soft light ink, with the figures in the brightest ink.",
+   "mobile": "The paragraph is 7.4vw with leading 1.2, at full width between 20px margins, vertically centred in 70svh. Keep each figure and its unit together on one line with non-breaking spaces. Nothing else appears in the section.",
+   "seenIn": [
+    "aww-made-with-gsap-1",
+    "aww-united-carriers"
+   ]
+  },
+  {
+   "id": "how-it-works-many-into-one",
+   "role": "how-it-works",
+   "name": "Many into one",
+   "shape": "band",
+   "tags": [
+    "colour-field",
+    "dense"
+   ],
+   "directions": [
+    "one-motif",
+    "dense-tiles",
+    "editorial-report",
+    "borrowed-category"
+   ],
+   "needs": [],
+   "blueprint": "A diagram drawn with one repeated shape instead of arrows. The heading (two to four words on two lines at clamp(36px, 4vw, 60px)) and a short paragraph at 17px sit in columns 1–4. Beneath, a wide inline SVG spans columns 1–12 at about 4.5:1. It is built from 120–160 small filled squares (or the page's own motif), each 10–14px. In the left third they are scattered loosely in two pale tones. In the middle third they are pulled into a tight horizontal ribbon three squares high. In the right third they fan out again into neat, evenly spaced rows in the accent colour. The eye reads disorder, compression, order, from left to right. Under the diagram, three text columns aligned to its thirds: a bold one-word name at 20px and two lines at 16px each; the words carry the sequence ('Gather', 'Reduce', 'Release'). No connecting marks.",
+   "mobile": "The diagram turns to run top to bottom: a 3:4 SVG with the scatter at the top, the ribbon as a vertical band in the middle and the ordered rows at the bottom. The three names and their text sit to its right in a 38vw column, each level with its zone.",
+   "seenIn": [
+    "opl-wild-as",
+    "opl-shelf"
+   ]
+  },
+  {
+   "id": "about-portrait-drop-cap",
+   "role": "about",
+   "name": "Portrait as drop cap",
+   "shape": "statement",
+   "tags": [
+    "type-led",
+    "photo-led"
+   ],
+   "directions": [
+    "sentence-as-layout",
+    "name-as-monument",
+    "dark-room",
+    "editorial-report",
+    "contact-sheet"
+   ],
+   "needs": [],
+   "blueprint": "No heading. One biography paragraph of 50–80 words is set large at clamp(24px, 2.5vw, 38px), regular weight, leading 1.2, across columns 3–12 of the grid. A square portrait is floated at the paragraph's start with `float: left`: its side equals three lines of text (3.6em), with 0.5em of space to its right, so the first three lines wrap beside it and the fourth returns to the paragraph's left edge, like a drop capital. Square corners. The person's name, the first words of the paragraph, is in full ink; the rest may be in a softer ink with linked names in full ink and underlined. A second paragraph follows after one blank line in the soft ink at the same size. Columns 1–2 hold three short facts (place, since when, how to reach) at 14px, top-aligned with the portrait. Section padding 140px.",
+   "mobile": "Text at 22px with leading 1.25, full width. The portrait keeps its float but grows to four lines tall, about 110px square. The three facts move below the second paragraph as a single row of three small blocks at 13px.",
+   "seenIn": [
+    "aww-haoqi-design",
+    "aww-coffeetech-r",
+    "aww-monolog"
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "opl-artem-taradash",
+   "name": "Artem Taradash",
+   "url": "https://taradash.me/",
+   "source": "One Page Love",
+   "kind": "personal-portfolio",
+   "score": 7.1,
+   "idea": "A designer's CV compressed into one newspaper-like band at the top, after which oversized product renders and project artefacts speak at full scale.",
+   "mood": [
+    "matter-of-fact",
+    "editorial",
+    "dense",
+    "confident"
+   ],
+   "archetype": "editorial-masthead",
+   "hero": "White page with 20px margins. Top-left are three small black rectangular tags with white text (name and two links). Below them a three-line statement at about 3vw in regular-weight grotesk fills the first third, left-aligned. To its right, starting at the very top edge, run two narrow columns of 12px text, then a third column listing clients one per line, and in the far top-right a circular portrait about 200px wide with a white hand-lettered word across the face. This text band ends by a quarter of the height. Below it a huge cut-out vehicle render bleeds off the bottom, with a project card at right.",
+   "type": "One family, Diatype, in regular weight throughout. Three sizes: about 43px for statements and project titles, 12.4px for all running text, about 11px for tags. Tight leading, sentence case, no bold and no capitals; hierarchy comes from size alone.",
+   "colour": "#ffffff #111111 #f7f9fb #1c4fd8 #f0a23a — Strictly black on white for the frame. All colour arrives with project material: an orange-to-blue gradient, a cobalt zigzag pattern, warm photography.",
+   "imagery": "Product renders cut out on white and shown very large, interface screenshots with a small corner radius, a full-width studio photo with a circular logo overlaid, and textile-pattern fields running margin to margin. Scale varies sharply between projects.",
+   "layout": "A loose six-column grid with 20px margins; small text blocks hang from column lines beside very large images. Each project is arranged differently, and there are no dividers or section backgrounds, only white space and jumps in scale. The tag nav stays fixed top-left.",
+   "sections": [
+    {
+     "role": "work",
+     "description": "Each project pairs one oversized visual with a small caption cluster. In the first, a cut-out product render fills the left 60% and bleeds off the edge. The right third stacks a landscape screenshot with slightly rounded corners, then a row holding a tiny label and two-line title at about 3vw on the left and a five-line 12px description on the right."
+    },
+    {
+     "role": "work",
+     "description": "A row of three: a round black watch-face mock-up about a quarter of the width, a wide rectangle filled with a horizontal blue, violet, orange, blue gradient with a tiny tick scale beneath it, and a narrow text column at far right with label, three-line title and two short paragraphs. Circle, rectangle and text share a top line."
+    },
+    {
+     "role": "gallery",
+     "description": "A cobalt-and-white zigzag textile pattern runs margin to margin for more than a full viewport height with only a two-line caption beneath it at left. Before it, a black-backed mosaic of pattern samples and report-cover mock-ups sits beside two narrow text columns. The pattern is given a section to itself with no mock-up frame."
+    },
+    {
+     "role": "contact",
+     "description": "Closing row on white: a tiny label, then a four-line sentence at about 3vw in the left third; a small square portrait at the two-thirds mark; to its right a short question with two underlined links below. All three hang from the same top line with empty space between them."
+    }
+   ],
+   "steal": [
+    "Put bio, client list and portrait in one compact multi-column band at the top so the first scroll is already work.",
+    "Use solid black rectangular tags with white text as the only navigation chrome.",
+    "Let one project artefact (a pattern, a gradient) run full width for a whole screen with a two-line caption instead of framing it in a mock-up."
+   ]
+  },
+  {
+   "id": "opl-belgrade-architecture",
+   "name": "Architecture of Socialist-Era Belgrade",
+   "url": "https://belgrade.klmln.com",
+   "source": "One Page Love",
+   "kind": "culture",
+   "score": 7.6,
+   "idea": "A two-colour printed guidebook on screen: signal-red type over greyscale concrete, with one modular display face as the only ornament.",
+   "mood": [
+    "austere",
+    "graphic",
+    "archival",
+    "bold"
+   ],
+   "archetype": "fullbleed-media-overlay",
+   "hero": "Full-bleed greyscale photograph of brutalist housing towers; pale sky fills the top half, concrete the bottom. The title is set over the sky, flush left at a 32px margin, three lines in a wide modular display face at 102px (7.1vw) in flat red, the longest line reaching 92% of the width, leading so tight that the lines almost touch. Under it, one row at 24px: a red one-line descriptor at left, and two paler-red facts right-aligned (an object count and a date range). Top-right, the word 'Index' with a diagonal arrow. No logo, no button, nothing else. Red and grey only.",
+   "type": "IntraNet, a wide modular display face with rounded, notched corners, used only for the title and its footer repeat. Funnel Sans carries the rest: about 50px for the long intro, 40px bold uppercase entry titles, 24px meta, 13px credits. Four sizes, two faces.",
+   "colour": "#f53843 #d1d1d1 #c7c7c7 #777777 #f1a7ab — Strictly red and grey: red text on grey photo or grey paper, then pale grey text on a solid red field for the essay and footer. Photographs are desaturated so nothing breaks the pair.",
+   "imagery": "Contemporary black-and-white architectural photographs of concrete towers and complexes, frontal or looking up, with big skies and visible grain; full-bleed in the hero, full column width and square-cornered in entries.",
+   "layout": "16 to 32px margins, everything flush left. A long red essay block in very large text, then twenty repeated entry blocks on grey: a two-column header split by a vertical red hairline, a meta row, then a wide photo. 81 screens of the same rhythm.",
+   "sections": [
+    {
+     "role": "intro",
+     "description": "Immediately under the hero photo a solid red field begins with no gap. The essay runs as one full-width column in pale grey sans at roughly 50px with tight leading, about 50 characters per line, paragraphs separated by one blank line, with no headings, pull-quotes or images for several screens. The photo's bottom edge butts straight against the red."
+    },
+    {
+     "role": "list",
+     "description": "Each building entry sits on light grey paper: a thin red rule across the top, then two columns divided by a vertical red hairline at the 50% mark. Left: the building's name in red bold uppercase at 40px over two lines. Right: its dates in pale red at the same size. Below, a small meta row with 'Credits' and 'Address' labels and values in 13px red, then a full-width greyscale photograph."
+    },
+    {
+     "role": "footer",
+     "description": "Solid red. At the top, two short 13px notes side by side in pale grey occupy the left 60%, a back-to-top link sits far right, and a third note runs beneath. A tall empty red gap follows. Then the full title is repeated in the display face at hero size but in pale grey, flush left, above a single row of small meta: sources link left, font credits centre, city and year right."
+    }
+   ],
+   "steal": [
+    "Limit the page to one saturated colour and one grey, desaturate all photos, and invert the pair (grey on red) for long reading blocks.",
+    "Set the title in a distinctive modular display face directly on the sky area of a photo and repeat it in the footer in the inverse colour.",
+    "Put facts in the hero as a right-aligned row of paler-tint figures (count, date range) on the same baseline as the subtitle."
+   ]
+  }
+ ],
+ "scenes": []
+}

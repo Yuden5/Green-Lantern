@@ -1,0 +1,1877 @@
+{
+ "url": "http://127.0.0.1:5173/#/policy",
+ "at": "2026-10-25T05:15:02.380Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 2344,
+     "screens": 2.6,
+     "words": 154,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "greenbkk.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Policy Overview",
+     "words": 2,
+     "chars": 15,
+     "lines": 1,
+     "size": 58,
+     "vw": 4,
+     "font": "Aptos Display",
+     "weight": 750,
+     "tracking": -0.031,
+     "leading": 1.5,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.78,
+     "top": 144,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Policy Overview",
+     "words": 2,
+     "lines": 1,
+     "size": 58,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "Policy Overview",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 58,
+      "vw": 4,
+      "font": "Aptos Display",
+      "weight": 750,
+      "tracking": -0.031,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 144,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "01. Green Bangkok 2030",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Aptos Display",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.72,
+      "top": 380,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "10 m²",
+      "words": 2,
+      "chars": 5,
+      "lines": 1,
+      "size": 42,
+      "vw": 2.9,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.012,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.18,
+      "top": 789,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "50%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 42,
+      "vw": 2.9,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.012,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.18,
+      "top": 789,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "30%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 42,
+      "vw": 2.9,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.012,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.18,
+      "top": 789,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "02. From Policy to Implementation",
+      "words": 5,
+      "chars": 33,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Aptos Display",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.72,
+      "top": 1038,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "569 parks / 357 target",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.011,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.65,
+      "top": 1550,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "03. The Remaining Gap",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Aptos Display",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.72,
+      "top": 1821,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.86,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.14,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      16,
+      17,
+      32,
+      42,
+      44,
+      58
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 17,
+      "leading": 1.75,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 6
+     },
+     "measureChars": 106,
+     "max": {
+      "size": 58,
+      "vw": 4,
+      "font": "Aptos Display",
+      "text": "Policy Overview"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Reported FY2025 performance",
+      "above": "569 parks / 357 target",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 15,
+      "top": 1519
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01. Green Bangkok 2030",
+      "size": 32,
+      "top": 380
+     },
+     {
+      "text": "02. From Policy to Implementat",
+      "size": 32,
+      "top": 1038
+     },
+     {
+      "text": "03. The Remaining Gap",
+      "size": 32,
+      "top": 1821
+     }
+    ],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f3f7ef",
+       "top": 0,
+       "hsl": {
+        "h": 90,
+        "s": 0.33,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 335,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#52685a",
+       "share": 0.36
+      },
+      {
+       "color": "#64776a",
+       "share": 0.18
+      },
+      {
+       "color": "#16452e",
+       "share": 0.15
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.11
+      },
+      {
+       "color": "#476050",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#d9ebad",
+      "hsl": {
+       "h": 77,
+       "s": 0.61,
+       "l": 0.8
+      },
+      "fg": "#193b2a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 5,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 8,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "header.site-header → rgba(25, 59, 42, 0.04) 0px 4px 18px 0px",
+      "section.policy-section → rgba(25, 59, 42, 0.05) 0px 12px 32px 0px",
+      "div.policy-target-card → rgba(25, 59, 42, 0.05) 0px 8px 24px 0px",
+      "div.policy-target-card → rgba(25, 59, 42, 0.05) 0px 8px 24px 0px"
+     ],
+     "gradients": 2,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.policy-page → radial-gradient(at 10% 0%, rgba(223, 236, 209, 0.46), rgba(0, 0, 0, 0) 32%), none",
+      "div.policy-performance-card → linear-gradient(135deg, rgb(22, 69, 46), rgb(40, 99, 66))"
+     ],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "header.site-header 1440px"
+     ],
+     "outlinedBoxes": 6,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 6,
+     "boxRadius": 24,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 335
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 754
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 2344,
+    "margins": {
+     "left": 205,
+     "right": 342
+    },
+    "sections": [
+     {
+      "sel": "section.policy-section",
+      "tag": "section",
+      "top": 335,
+      "height": 614,
+      "words": 23,
+      "media": 1,
+      "middle": 98,
+      "heading": {
+       "text": "10 m²",
+       "size": 42,
+       "tag": "div"
+      },
+      "left": 205,
+      "right": 303,
+      "textLeft": 205,
+      "textRight": 303,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section",
+      "tag": "section",
+      "top": 993,
+      "height": 739,
+      "words": 65,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "02. From Policy to Implementation",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 205,
+      "right": 414,
+      "textLeft": 205,
+      "textRight": 414,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section",
+      "tag": "section",
+      "top": 1776,
+      "height": 449,
+      "words": 66,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "03. The Remaining Gap",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 205,
+      "right": 342,
+      "textLeft": 205,
+      "textRight": 342,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Policy Overview",
+      "size": 58,
+      "top": 144,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 205,
+      "n": 4
+     },
+     {
+      "x": 329,
+      "n": 2
+     },
+     {
+      "x": 669,
+      "n": 2
+     },
+     {
+      "x": 249,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 17,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0.24,
+    "voidBox": {
+     "x": 960,
+     "y": 120,
+     "w": 480,
+     "h": 660
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 2189,
+     "screens": 2.1,
+     "words": 154,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "greenbkk.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Policy Overview",
+     "words": 2,
+     "chars": 15,
+     "lines": 1,
+     "size": 38.4,
+     "vw": 5,
+     "font": "Aptos Display",
+     "weight": 750,
+     "tracking": -0.047,
+     "leading": 1.5,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 118,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Policy Overview",
+     "words": 2,
+     "lines": 1,
+     "size": 38.4,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "Policy Overview",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 5,
+      "font": "Aptos Display",
+      "weight": 750,
+      "tracking": -0.047,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 118,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "10 m²",
+      "words": 2,
+      "chars": 5,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.017,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 581,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "50%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.017,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 710,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "30%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.017,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 839,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "569 parks / 357 target",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 30.7,
+      "vw": 4,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.016,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 1505,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.86,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.14,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      16,
+      17,
+      24,
+      30,
+      31,
+      38
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 17,
+      "leading": 1.75,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 6
+     },
+     "measureChars": 76,
+     "max": {
+      "size": 38.4,
+      "vw": 5,
+      "font": "Aptos Display",
+      "text": "Policy Overview"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Reported FY2025 performance",
+      "above": "569 parks / 357 target",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 15,
+      "top": 1475
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01. Green Bangkok 2030",
+      "size": 24,
+      "top": 277
+     },
+     {
+      "text": "02. From Policy to Implementat",
+      "size": 24,
+      "top": 1022
+     },
+     {
+      "text": "03. The Remaining Gap",
+      "size": 24,
+      "top": 1730
+     }
+    ],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f3f7ef",
+       "top": 0,
+       "hsl": {
+        "h": 90,
+        "s": 0.33,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 245,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#52685a",
+       "share": 0.36
+      },
+      {
+       "color": "#64776a",
+       "share": 0.18
+      },
+      {
+       "color": "#16452e",
+       "share": 0.15
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.11
+      },
+      {
+       "color": "#476050",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#d9ebad",
+      "hsl": {
+       "h": 77,
+       "s": 0.61,
+       "l": 0.8
+      },
+      "fg": "#193b2a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 5,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 8,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "header.site-header → rgba(25, 59, 42, 0.04) 0px 4px 18px 0px",
+      "section.policy-section → rgba(25, 59, 42, 0.05) 0px 12px 32px 0px",
+      "div.policy-target-card → rgba(25, 59, 42, 0.05) 0px 8px 24px 0px",
+      "div.policy-target-card → rgba(25, 59, 42, 0.05) 0px 8px 24px 0px"
+     ],
+     "gradients": 2,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.policy-page → radial-gradient(at 10% 0%, rgba(223, 236, 209, 0.46), rgba(0, 0, 0, 0) 32%), none",
+      "div.policy-performance-card → linear-gradient(135deg, rgb(22, 69, 46), rgb(40, 99, 66))"
+     ],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "header.site-header 768px"
+     ],
+     "outlinedBoxes": 6,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 6,
+     "boxRadius": 24,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 556
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 2189,
+    "margins": {
+     "left": 62,
+     "right": 80
+    },
+    "sections": [
+     {
+      "sel": "section.policy-section",
+      "tag": "section",
+      "top": 245,
+      "height": 714,
+      "words": 23,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "10 m²",
+       "size": 30,
+       "tag": "div"
+      },
+      "left": 62,
+      "right": 289,
+      "textLeft": 62,
+      "textRight": 448,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section",
+      "tag": "section",
+      "top": 990,
+      "height": 677,
+      "words": 65,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "569 parks / 357 target",
+       "size": 31,
+       "tag": "div"
+      },
+      "left": 62,
+      "right": 121,
+      "textLeft": 62,
+      "textRight": 121,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section",
+      "tag": "section",
+      "top": 1698,
+      "height": 419,
+      "words": 66,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "03. The Remaining Gap",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 62,
+      "right": 69,
+      "textLeft": 62,
+      "textRight": 69,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Policy Overview",
+      "size": 38,
+      "top": 118,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 62,
+      "n": 4
+     },
+     {
+      "x": 140,
+      "n": 2
+     },
+     {
+      "x": 352,
+      "n": 2
+     },
+     {
+      "x": 92,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 17,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 2319,
+     "screens": 2.7,
+     "words": 154,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "greenbkk.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Policy Overview",
+     "words": 2,
+     "chars": 15,
+     "lines": 1,
+     "size": 38,
+     "vw": 9.7,
+     "font": "Aptos Display",
+     "weight": 750,
+     "tracking": -0.047,
+     "leading": 1.5,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.91,
+     "top": 96,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Policy Overview",
+     "words": 2,
+     "lines": 1,
+     "size": 38,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "Policy Overview",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Aptos Display",
+      "weight": 750,
+      "tracking": -0.047,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 96,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "01. Green Bangkok 2030",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 23,
+      "vw": 5.9,
+      "font": "Aptos Display",
+      "weight": 750,
+      "tracking": -0.035,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 222,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "10 m²",
+      "words": 2,
+      "chars": 5,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.017,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.67,
+      "top": 522,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "50%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.017,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.67,
+      "top": 647,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "30%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.017,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.67,
+      "top": 773,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "02. From Policy to Implementation",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 23,
+      "vw": 5.9,
+      "font": "Aptos Display",
+      "weight": 750,
+      "tracking": -0.035,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 923,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "569 parks / 357 target",
+      "words": 5,
+      "chars": 22,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Aptos",
+      "weight": 800,
+      "tracking": -0.017,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.68,
+      "top": 1435,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "03. The Remaining Gap",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 23,
+      "vw": 5.9,
+      "font": "Aptos Display",
+      "weight": 750,
+      "tracking": -0.035,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 1695,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.86,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.14,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      15,
+      16,
+      17,
+      23,
+      30,
+      38
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 17,
+      "leading": 1.75,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 6
+     },
+     "measureChars": 37,
+     "max": {
+      "size": 38,
+      "vw": 9.7,
+      "font": "Aptos Display",
+      "text": "Policy Overview"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Reported FY2025 performance",
+      "above": "569 parks / 357 target",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 15,
+      "top": 1404
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01. Green Bangkok 2030",
+      "size": 23,
+      "top": 222
+     },
+     {
+      "text": "02. From Policy to Implementat",
+      "size": 23,
+      "top": 923
+     },
+     {
+      "text": "03. The Remaining Gap",
+      "size": 23,
+      "top": 1695
+     }
+    ],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f3f7ef",
+       "top": 0,
+       "hsl": {
+        "h": 90,
+        "s": 0.33,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 201,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#52685a",
+       "share": 0.36
+      },
+      {
+       "color": "#64776a",
+       "share": 0.18
+      },
+      {
+       "color": "#16452e",
+       "share": 0.15
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.11
+      },
+      {
+       "color": "#476050",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#d9ebad",
+      "hsl": {
+       "h": 77,
+       "s": 0.61,
+       "l": 0.8
+      },
+      "fg": "#193b2a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 5,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 8,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "header.site-header → rgba(25, 59, 42, 0.04) 0px 4px 18px 0px",
+      "section.policy-section → rgba(25, 59, 42, 0.05) 0px 12px 32px 0px",
+      "div.policy-target-card → rgba(25, 59, 42, 0.05) 0px 8px 24px 0px",
+      "div.policy-target-card → rgba(25, 59, 42, 0.05) 0px 8px 24px 0px"
+     ],
+     "gradients": 2,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.policy-page → radial-gradient(at 10% 0%, rgba(223, 236, 209, 0.46), rgba(0, 0, 0, 0) 32%), none",
+      "div.policy-performance-card → linear-gradient(135deg, rgb(22, 69, 46), rgb(40, 99, 66))"
+     ],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "header.site-header 390px"
+     ],
+     "outlinedBoxes": 6,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 6,
+     "boxRadius": 18,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 497
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.11
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 60,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 2319,
+    "margins": {
+     "left": 39,
+     "right": 43
+    },
+    "sections": [
+     {
+      "sel": "section.policy-section",
+      "tag": "section",
+      "top": 201,
+      "height": 681,
+      "words": 23,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "10 m²",
+       "size": 30,
+       "tag": "div"
+      },
+      "left": 39,
+      "right": 100,
+      "textLeft": 39,
+      "textRight": 103,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section",
+      "tag": "section",
+      "top": 902,
+      "height": 752,
+      "words": 65,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "02. From Policy to Implementation",
+       "size": 23,
+       "tag": "h2"
+      },
+      "left": 39,
+      "right": 43,
+      "textLeft": 39,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.policy-section",
+      "tag": "section",
+      "top": 1674,
+      "height": 573,
+      "words": 66,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "03. The Remaining Gap",
+       "size": 23,
+       "tag": "h2"
+      },
+      "left": 39,
+      "right": 50,
+      "textLeft": 39,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Policy Overview",
+      "size": 38,
+      "top": 96,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 39,
+      "n": 4
+     },
+     {
+      "x": 51,
+      "n": 2
+     },
+     {
+      "x": 126,
+      "n": 2
+     },
+     {
+      "x": 63,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 17,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "1 eyebrow/kicker label(s) above headings: \"Reported FY2025 performance\" above \"569 parks / 357 target\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "numbering",
+   "width": 1440,
+   "message": "Decorative index numbers: \"01. Green Bangkok 2030\", \"02. From Policy to Implementat\", \"03. The Remaining Gap\"",
+   "fix": "Remove them. If order truly matters, write it into the words (\"First, …\") or use a real <ol>.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "2 gradient fill(s): div.policy-page → radial-gradient(at 10% 0%, rgba(223, 236, 209, 0.46), rgba(0, 0, 0, 0) 32%), none | div.policy-performance-card → linear-gradient(135deg, rgb(22, 69, 46), rgb(40, 99, 66))",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "8 box-shadow(s) on elements at rest: header.site-header → rgba(25, 59, 42, 0.04) 0px 4px 18px 0px | section.policy-section → rgba(25, 59, 42, 0.05) 0px 12px 32px 0px | div.policy-target-card → rgba(25, 59, 42, 0.05) 0px 8px 24px 0px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "hairline",
+   "width": 1440,
+   "message": "1 thin rule(s)/divider line(s): header.site-header 1440px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "6 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "card-rows",
+   "width": 1440,
+   "message": "2 rows of identical boxed cards.",
+   "fix": "Vary the composition; not every section is a card grid."
+  },
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 1440,
+   "message": "The running text is a soft grey on its ground (6:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 1 picture(s) on the page (1 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 106 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch)."
+  },
+  {
+   "level": "FAIL",
+   "id": "focal-point",
+   "width": 1440,
+   "message": "The first screen has no dominant element: the largest type is 58px (4vw) and no single picture holds a third of the viewport.",
+   "fix": "Make one thing lead: the headline at display size, or one large picture. A grid of many small pictures is not one thing; in blind tests jurors marked a first screen without a headline down every time. On the strongest studied sites the largest type has a median of 8.4vw."
+  },
+  {
+   "level": "WARN",
+   "id": "dev-server",
+   "width": 1440,
+   "message": "This page is served by a development server (Vite, webpack or Next in dev mode).",
+   "fix": "Run the last gate on the production build too (vite build && vite preview, next build && next start, or the built index.html): minifiers and bundlers change the CSS a visitor receives.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The page sits off-centre: its content comes to 205px from the left edge but only to 342px from the right, at 1440px.",
+   "fix": "Give the page one pair of equal margins. Check the wrapper for a max-width without margin-inline: auto, a grid with an empty last column, or padding on one side only. If one side is meant to hold air, it must still be closed by something that reaches the margin (a picture, the navigation's last item, a figure)."
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 1440,
+   "message": "The h1 is a bare name (\"Policy Overview\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Only 0 element(s) moved while the page loaded and scrolled.",
+   "fix": "Build the motion layer (SKILL.md step 9, references/motion.md): the signature move, an entrance for the parts of every section, feedback on every control, and one moving picture. Transform and opacity only, with a reduced-motion fallback."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 768,
+   "message": "The margins differ: 62px on the left, 80px on the right, at 768px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\before-policy\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\before-policy\\desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\before-policy\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\before-policy\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\before-policy\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\before-policy\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

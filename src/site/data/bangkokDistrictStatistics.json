@@ -1,0 +1,389 @@
+{
+  "source": "data/Bangkok Districts.xlsx",
+  "records": [
+    {
+      "districtId": "1043",
+      "population": 93302,
+      "greenSpaceAreaM2": 3264552.1,
+      "greenSpacePerPersonM2": 34.99,
+      "accessibleGreenSpaceAreaM2": 38732.3,
+      "accessibleGreenSpacePerPersonM2": 0.42
+    },
+    {
+      "districtId": "1007",
+      "population": 38560,
+      "greenSpaceAreaM2": 945122.6,
+      "greenSpacePerPersonM2": 24.51,
+      "accessibleGreenSpaceAreaM2": 729460.0,
+      "accessibleGreenSpacePerPersonM2": 18.92
+    },
+    {
+      "districtId": "1048",
+      "population": 80816,
+      "greenSpaceAreaM2": 1821884.5,
+      "greenSpacePerPersonM2": 22.54,
+      "accessibleGreenSpaceAreaM2": 372920.6,
+      "accessibleGreenSpacePerPersonM2": 4.61
+    },
+    {
+      "districtId": "1021",
+      "population": 185160,
+      "greenSpaceAreaM2": 3683241.33,
+      "greenSpacePerPersonM2": 19.89,
+      "accessibleGreenSpaceAreaM2": 547056.0,
+      "accessibleGreenSpacePerPersonM2": 2.95
+    },
+    {
+      "districtId": "1032",
+      "population": 183562,
+      "greenSpaceAreaM2": 3096657.79,
+      "greenSpacePerPersonM2": 16.87,
+      "accessibleGreenSpaceAreaM2": 2082306.76,
+      "accessibleGreenSpacePerPersonM2": 11.34
+    },
+    {
+      "districtId": "1001",
+      "population": 38408,
+      "greenSpaceAreaM2": 626671.52,
+      "greenSpacePerPersonM2": 16.32,
+      "accessibleGreenSpaceAreaM2": 270655.6,
+      "accessibleGreenSpacePerPersonM2": 7.05
+    },
+    {
+      "districtId": "1002",
+      "population": 72788,
+      "greenSpaceAreaM2": 1151908.0,
+      "greenSpacePerPersonM2": 15.83,
+      "accessibleGreenSpaceAreaM2": 27760.0,
+      "accessibleGreenSpacePerPersonM2": 0.38
+    },
+    {
+      "districtId": "1030",
+      "population": 154513,
+      "greenSpaceAreaM2": 2169260.56,
+      "greenSpacePerPersonM2": 14.04,
+      "accessibleGreenSpaceAreaM2": 1276611.48,
+      "accessibleGreenSpacePerPersonM2": 8.26
+    },
+    {
+      "districtId": "1019",
+      "population": 100433,
+      "greenSpaceAreaM2": 1391024.69,
+      "greenSpacePerPersonM2": 13.85,
+      "accessibleGreenSpaceAreaM2": 37781.6,
+      "accessibleGreenSpacePerPersonM2": 0.38
+    },
+    {
+      "districtId": "1033",
+      "population": 88304,
+      "greenSpaceAreaM2": 1151880.84,
+      "greenSpacePerPersonM2": 13.04,
+      "accessibleGreenSpaceAreaM2": 364800.0,
+      "accessibleGreenSpacePerPersonM2": 4.13
+    },
+    {
+      "districtId": "1037",
+      "population": 61377,
+      "greenSpaceAreaM2": 699452.12,
+      "greenSpacePerPersonM2": 11.4,
+      "accessibleGreenSpaceAreaM2": 103376.0,
+      "accessibleGreenSpacePerPersonM2": 1.68
+    },
+    {
+      "districtId": "1050",
+      "population": 98160,
+      "greenSpaceAreaM2": 977908.34,
+      "greenSpacePerPersonM2": 9.96,
+      "accessibleGreenSpaceAreaM2": 171416.0,
+      "accessibleGreenSpacePerPersonM2": 1.75
+    },
+    {
+      "districtId": "1013",
+      "population": 18329,
+      "greenSpaceAreaM2": 140046.34,
+      "greenSpacePerPersonM2": 7.64,
+      "accessibleGreenSpaceAreaM2": 1918.28,
+      "accessibleGreenSpacePerPersonM2": 0.1
+    },
+    {
+      "districtId": "1003",
+      "population": 187987,
+      "greenSpaceAreaM2": 1351805.48,
+      "greenSpacePerPersonM2": 7.19,
+      "accessibleGreenSpaceAreaM2": 203800.0,
+      "accessibleGreenSpacePerPersonM2": 1.08
+    },
+    {
+      "districtId": "1008",
+      "population": 35900,
+      "greenSpaceAreaM2": 256540.64,
+      "greenSpacePerPersonM2": 7.15,
+      "accessibleGreenSpaceAreaM2": 80.0,
+      "accessibleGreenSpacePerPersonM2": 0.002
+    },
+    {
+      "districtId": "1010",
+      "population": 140449,
+      "greenSpaceAreaM2": 970293.52,
+      "greenSpacePerPersonM2": 6.91,
+      "accessibleGreenSpaceAreaM2": 243046.8,
+      "accessibleGreenSpacePerPersonM2": 1.73
+    },
+    {
+      "districtId": "1012",
+      "population": 72413,
+      "greenSpaceAreaM2": 485549.0,
+      "greenSpacePerPersonM2": 6.71,
+      "accessibleGreenSpaceAreaM2": 35010.25,
+      "accessibleGreenSpacePerPersonM2": 0.48
+    },
+    {
+      "districtId": "1027",
+      "population": 134892,
+      "greenSpaceAreaM2": 843673.2,
+      "greenSpacePerPersonM2": 6.25,
+      "accessibleGreenSpaceAreaM2": 454935.2,
+      "accessibleGreenSpacePerPersonM2": 3.37
+    },
+    {
+      "districtId": "1034",
+      "population": 123291,
+      "greenSpaceAreaM2": 750818.4,
+      "greenSpacePerPersonM2": 6.09,
+      "accessibleGreenSpaceAreaM2": 208000.0,
+      "accessibleGreenSpacePerPersonM2": 1.69
+    },
+    {
+      "districtId": "1006",
+      "population": 140901,
+      "greenSpaceAreaM2": 856722.87,
+      "greenSpacePerPersonM2": 6.08,
+      "accessibleGreenSpaceAreaM2": 183736.0,
+      "accessibleGreenSpacePerPersonM2": 1.3
+    },
+    {
+      "districtId": "1038",
+      "population": 110660,
+      "greenSpaceAreaM2": 660654.6,
+      "greenSpacePerPersonM2": 5.97,
+      "accessibleGreenSpaceAreaM2": 54536.48,
+      "accessibleGreenSpacePerPersonM2": 0.49
+    },
+    {
+      "districtId": "1005",
+      "population": 183306,
+      "greenSpaceAreaM2": 1050650.76,
+      "greenSpacePerPersonM2": 5.73,
+      "accessibleGreenSpaceAreaM2": 166756.0,
+      "accessibleGreenSpacePerPersonM2": 0.91
+    },
+    {
+      "districtId": "1017",
+      "population": 84038,
+      "greenSpaceAreaM2": 471358.75,
+      "greenSpacePerPersonM2": 5.61,
+      "accessibleGreenSpaceAreaM2": 51868.8,
+      "accessibleGreenSpacePerPersonM2": 0.62
+    },
+    {
+      "districtId": "1044",
+      "population": 97812,
+      "greenSpaceAreaM2": 546387.85,
+      "greenSpacePerPersonM2": 5.59,
+      "accessibleGreenSpaceAreaM2": 18724.0,
+      "accessibleGreenSpacePerPersonM2": 0.19
+    },
+    {
+      "districtId": "1042",
+      "population": 212912,
+      "greenSpaceAreaM2": 1153296.3,
+      "greenSpacePerPersonM2": 5.42,
+      "accessibleGreenSpaceAreaM2": 82519.04,
+      "accessibleGreenSpacePerPersonM2": 0.39
+    },
+    {
+      "districtId": "1020",
+      "population": 51091,
+      "greenSpaceAreaM2": 271907.24,
+      "greenSpacePerPersonM2": 5.32,
+      "accessibleGreenSpaceAreaM2": 40174.0,
+      "accessibleGreenSpacePerPersonM2": 0.79
+    },
+    {
+      "districtId": "1040",
+      "population": 191997,
+      "greenSpaceAreaM2": 1014357.6,
+      "greenSpacePerPersonM2": 5.28,
+      "accessibleGreenSpaceAreaM2": 134111.0,
+      "accessibleGreenSpacePerPersonM2": 0.7
+    },
+    {
+      "districtId": "1023",
+      "population": 154690,
+      "greenSpaceAreaM2": 771567.76,
+      "greenSpacePerPersonM2": 4.99,
+      "accessibleGreenSpaceAreaM2": 16093.16,
+      "accessibleGreenSpacePerPersonM2": 0.1
+    },
+    {
+      "districtId": "1028",
+      "population": 69219,
+      "greenSpaceAreaM2": 335893.56,
+      "greenSpacePerPersonM2": 4.85,
+      "accessibleGreenSpaceAreaM2": 197628.0,
+      "accessibleGreenSpacePerPersonM2": 2.86
+    },
+    {
+      "districtId": "1049",
+      "population": 123887,
+      "greenSpaceAreaM2": 589643.0,
+      "greenSpacePerPersonM2": 4.76,
+      "accessibleGreenSpaceAreaM2": 101280.0,
+      "accessibleGreenSpacePerPersonM2": 0.82
+    },
+    {
+      "districtId": "1031",
+      "population": 74846,
+      "greenSpaceAreaM2": 353019.44,
+      "greenSpacePerPersonM2": 4.72,
+      "accessibleGreenSpaceAreaM2": 73803.52,
+      "accessibleGreenSpacePerPersonM2": 0.99
+    },
+    {
+      "districtId": "1046",
+      "population": 215427,
+      "greenSpaceAreaM2": 966238.2,
+      "greenSpacePerPersonM2": 4.49,
+      "accessibleGreenSpaceAreaM2": 246452.8,
+      "accessibleGreenSpacePerPersonM2": 1.14
+    },
+    {
+      "districtId": "1047",
+      "population": 84574,
+      "greenSpaceAreaM2": 376844.0,
+      "greenSpacePerPersonM2": 4.46,
+      "accessibleGreenSpaceAreaM2": 27240.0,
+      "accessibleGreenSpacePerPersonM2": 0.32
+    },
+    {
+      "districtId": "1004",
+      "population": 40549,
+      "greenSpaceAreaM2": 170258.28,
+      "greenSpacePerPersonM2": 4.2,
+      "accessibleGreenSpaceAreaM2": 2450.8,
+      "accessibleGreenSpacePerPersonM2": 0.06
+    },
+    {
+      "districtId": "1018",
+      "population": 61832,
+      "greenSpaceAreaM2": 251340.0,
+      "greenSpacePerPersonM2": 4.06,
+      "accessibleGreenSpaceAreaM2": 58728.0,
+      "accessibleGreenSpacePerPersonM2": 0.95
+    },
+    {
+      "districtId": "1011",
+      "population": 182191,
+      "greenSpaceAreaM2": 737781.32,
+      "greenSpacePerPersonM2": 4.05,
+      "accessibleGreenSpaceAreaM2": 230796.8,
+      "accessibleGreenSpacePerPersonM2": 1.27
+    },
+    {
+      "districtId": "1024",
+      "population": 74092,
+      "greenSpaceAreaM2": 291218.92,
+      "greenSpacePerPersonM2": 3.93,
+      "accessibleGreenSpaceAreaM2": 49593.0,
+      "accessibleGreenSpacePerPersonM2": 0.67
+    },
+    {
+      "districtId": "1016",
+      "population": 58804,
+      "greenSpaceAreaM2": 215236.0,
+      "greenSpacePerPersonM2": 3.66,
+      "accessibleGreenSpaceAreaM2": 8424.0,
+      "accessibleGreenSpacePerPersonM2": 0.14
+    },
+    {
+      "districtId": "1035",
+      "population": 137869,
+      "greenSpaceAreaM2": 474610.48,
+      "greenSpacePerPersonM2": 3.44,
+      "accessibleGreenSpaceAreaM2": 15292.0,
+      "accessibleGreenSpacePerPersonM2": 0.11
+    },
+    {
+      "districtId": "1014",
+      "population": 62275,
+      "greenSpaceAreaM2": 206184.04,
+      "greenSpacePerPersonM2": 3.31,
+      "accessibleGreenSpaceAreaM2": 30685.0,
+      "accessibleGreenSpacePerPersonM2": 0.49
+    },
+    {
+      "districtId": "1025",
+      "population": 85791,
+      "greenSpaceAreaM2": 277109.23,
+      "greenSpacePerPersonM2": 3.23,
+      "accessibleGreenSpaceAreaM2": 43972.0,
+      "accessibleGreenSpacePerPersonM2": 0.51
+    },
+    {
+      "districtId": "1009",
+      "population": 84014,
+      "greenSpaceAreaM2": 269578.35,
+      "greenSpacePerPersonM2": 3.21,
+      "accessibleGreenSpaceAreaM2": 14380.4,
+      "accessibleGreenSpacePerPersonM2": 0.17
+    },
+    {
+      "districtId": "1022",
+      "population": 120980,
+      "greenSpaceAreaM2": 384893.28,
+      "greenSpacePerPersonM2": 3.18,
+      "accessibleGreenSpaceAreaM2": 1600.0,
+      "accessibleGreenSpacePerPersonM2": 0.01
+    },
+    {
+      "districtId": "1015",
+      "population": 95666,
+      "greenSpaceAreaM2": 273958.0,
+      "greenSpacePerPersonM2": 2.86,
+      "accessibleGreenSpaceAreaM2": 25640.0,
+      "accessibleGreenSpacePerPersonM2": 0.27
+    },
+    {
+      "districtId": "1029",
+      "population": 116600,
+      "greenSpaceAreaM2": 283456.0,
+      "greenSpacePerPersonM2": 2.43,
+      "accessibleGreenSpaceAreaM2": 55284.0,
+      "accessibleGreenSpacePerPersonM2": 0.47
+    },
+    {
+      "districtId": "1026",
+      "population": 109047,
+      "greenSpaceAreaM2": 218350.76,
+      "greenSpacePerPersonM2": 2.0,
+      "accessibleGreenSpaceAreaM2": 34426.8,
+      "accessibleGreenSpacePerPersonM2": 0.32
+    },
+    {
+      "districtId": "1039",
+      "population": 79736,
+      "greenSpaceAreaM2": 147557.76,
+      "greenSpacePerPersonM2": 1.85,
+      "accessibleGreenSpaceAreaM2": 9900.0,
+      "accessibleGreenSpacePerPersonM2": 0.12
+    },
+    {
+      "districtId": "1045",
+      "population": 102281,
+      "greenSpaceAreaM2": 181937.7,
+      "greenSpacePerPersonM2": 1.78,
+      "accessibleGreenSpaceAreaM2": 7437.72,
+      "accessibleGreenSpacePerPersonM2": 0.07
+    }
+  ]
+}

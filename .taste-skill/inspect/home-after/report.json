@@ -1,0 +1,1898 @@
+{
+ "url": "http://127.0.0.1:4173/#/home",
+ "at": "2026-10-25T07:17:40.176Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    1,
+    0.98,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 15,
+    "css": 15,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 3699,
+     "screens": 4.1,
+     "words": 168,
+     "img": 1,
+     "video": 0,
+     "canvas": 1,
+     "svg": 14,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "suan_luang-BPAT_Unu.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "GREEN Lantern",
+     "words": 2,
+     "chars": 13,
+     "lines": 2,
+     "size": 135.4,
+     "vw": 9.4,
+     "font": "Aptos Display",
+     "weight": 800,
+     "tracking": -0.075,
+     "leading": 0.78,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.3,
+     "top": 148,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "GREEN Lantern",
+     "words": 2,
+     "lines": 2,
+     "size": 135.4,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "GREEN Lantern",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 135.4,
+      "vw": 9.4,
+      "font": "Aptos Display",
+      "weight": 800,
+      "tracking": -0.075,
+      "leading": 0.78,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 148,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "A Bangkok atlas for exploring neighbourhood green spaces and access.",
+      "words": 10,
+      "chars": 68,
+      "lines": 3,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Aptos",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 393,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Start with a place.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 66,
+      "vw": 4.6,
+      "font": "Aptos Display",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.6,
+      "top": 1008,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Suan Luang",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Aptos Display",
+      "weight": 600,
+      "tracking": -0.06,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.28,
+      "top": 1326,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "What keeps green within reach?",
+      "words": 5,
+      "chars": 30,
+      "lines": 1,
+      "size": 66,
+      "vw": 4.6,
+      "font": "Aptos Display",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.6,
+      "top": 2042,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Unequal Green Access",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Aptos",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 2258,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "From pixels to policy",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 62,
+      "vw": 4.3,
+      "font": "Aptos Display",
+      "weight": 620,
+      "tracking": -0.055,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 2773,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Policy",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 42,
+      "vw": 2.9,
+      "font": "Aptos",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 3460,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "District analysis",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 42,
+      "vw": 2.9,
+      "font": "Aptos",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.33,
+      "top": 3460,
+      "tag": "strong",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 3,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.92,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.08,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      28,
+      40,
+      42,
+      62,
+      66,
+      68,
+      135
+     ],
+     "sizeCount": 13,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 17,
+      "leading": 1.75,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.8
+     },
+     "measureChars": 54,
+     "max": {
+      "size": 135.4,
+      "vw": 9.4,
+      "font": "Aptos Display",
+      "text": "GREEN"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f3f7ef",
+       "top": 0,
+       "hsl": {
+        "h": 90,
+        "s": 0.33,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#173e2d",
+       "top": 72,
+       "hsl": {
+        "h": 154,
+        "s": 0.46,
+        "l": 0.17
+       }
+      },
+      {
+       "color": "#e8eee1",
+       "top": 1950,
+       "hsl": {
+        "h": 88,
+        "s": 0.28,
+        "l": 0.91
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#294435",
+       "share": 0.41
+      },
+      {
+       "color": "#1d5639",
+       "share": 0.12
+      },
+      {
+       "color": "#173e2d",
+       "share": 0.1
+      },
+      {
+       "color": "#54725d",
+       "share": 0.08
+      },
+      {
+       "color": "#e2e8d8",
+       "share": 0.06
+      }
+     ],
+     "button": {
+      "bg": "#d9ebad",
+      "hsl": {
+       "h": 77,
+       "s": 0.61,
+       "l": 0.8
+      },
+      "fg": "#193b2a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 5,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore Suan Luang"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 1,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.45
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 3699,
+    "margins": {
+     "left": 100,
+     "right": 104
+    },
+    "sections": [
+     {
+      "sel": "section.home-hero",
+      "tag": "section",
+      "top": 72,
+      "height": 760,
+      "words": 29,
+      "media": 1,
+      "middle": 27,
+      "heading": {
+       "text": "GREEN",
+       "size": 135,
+       "tag": "h1"
+      },
+      "left": 100,
+      "right": 56,
+      "textLeft": 100,
+      "textRight": 901,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#home-story.home-aoi",
+      "tag": "section",
+      "top": 832,
+      "height": 918,
+      "words": 41,
+      "media": 1,
+      "middle": 101,
+      "heading": {
+       "text": "Suan Luang",
+       "size": 68,
+       "tag": "h3"
+      },
+      "left": 100,
+      "right": 104,
+      "textLeft": 100,
+      "textRight": 104,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.home-challenges",
+      "tag": "section",
+      "top": 1950,
+      "height": 596,
+      "words": 35,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What keeps green within reach?",
+       "size": 66,
+       "tag": "h2"
+      },
+      "left": 192,
+      "right": 253,
+      "textLeft": 192,
+      "textRight": 253,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.home-hackathon",
+      "tag": "section",
+      "top": 2701,
+      "height": 521,
+      "words": 61,
+      "media": 1,
+      "middle": 105,
+      "heading": {
+       "text": "From pixels to policy",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 164,
+      "right": 164,
+      "textLeft": 164,
+      "textRight": 500,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "nav.home-next-links",
+      "tag": "nav",
+      "top": 3379,
+      "height": 192,
+      "words": 7,
+      "media": 0,
+      "middle": 529,
+      "heading": {
+       "text": "Policy",
+       "size": 42,
+       "tag": "strong"
+      },
+      "left": 148,
+      "right": 384,
+      "textLeft": 148,
+      "textRight": 384,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 1752,
+      "height": 276
+     },
+     {
+      "top": 2420,
+      "height": 340
+     }
+    ],
+    "h1s": [
+     {
+      "text": "GREEN Lantern",
+      "size": 135,
+      "top": 148,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 100,
+      "n": 4
+     },
+     {
+      "x": 164,
+      "n": 2
+     },
+     {
+      "x": 941,
+      "n": 2
+     },
+     {
+      "x": 192,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 0,
+     "y": 840,
+     "w": 1440,
+     "h": 60
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    1,
+    0.94,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 15,
+    "css": 15,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4117,
+     "screens": 4,
+     "words": 168,
+     "img": 1,
+     "video": 0,
+     "canvas": 1,
+     "svg": 14,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "suan_luang-BPAT_Unu.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "GREEN Lantern",
+     "words": 2,
+     "chars": 13,
+     "lines": 2,
+     "size": 112,
+     "vw": 14.6,
+     "font": "Aptos Display",
+     "weight": 800,
+     "tracking": -0.075,
+     "leading": 0.78,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.47,
+     "top": 144,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "GREEN Lantern",
+     "words": 2,
+     "lines": 2,
+     "size": 112,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "GREEN Lantern",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 112,
+      "vw": 14.6,
+      "font": "Aptos Display",
+      "weight": 800,
+      "tracking": -0.075,
+      "leading": 0.78,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 144,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Start with a place.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 5,
+      "font": "Aptos Display",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 1198,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Suan Luang",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 42,
+      "vw": 5.5,
+      "font": "Aptos Display",
+      "weight": 600,
+      "tracking": -0.06,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 1789,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "What keeps green within reach?",
+      "words": 5,
+      "chars": 30,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 5,
+      "font": "Aptos Display",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 2172,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Unequal Green Access",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Aptos",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2571,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "From pixels to policy",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 5,
+      "font": "Aptos Display",
+      "weight": 620,
+      "tracking": -0.055,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.68,
+      "top": 2904,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Policy",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 26.1,
+      "vw": 3.4,
+      "font": "Aptos",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 3802,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "District analysis",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 26.1,
+      "vw": 3.4,
+      "font": "Aptos",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 3975,
+      "tag": "strong",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.92,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.08,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      21,
+      26,
+      38,
+      42,
+      112
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 17,
+      "leading": 1.75,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.8
+     },
+     "measureChars": 66,
+     "max": {
+      "size": 112,
+      "vw": 14.6,
+      "font": "Aptos Display",
+      "text": "GREEN"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f3f7ef",
+       "top": 0,
+       "hsl": {
+        "h": 90,
+        "s": 0.33,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#173e2d",
+       "top": 72,
+       "hsl": {
+        "h": 154,
+        "s": 0.46,
+        "l": 0.17
+       }
+      },
+      {
+       "color": "#e8eee1",
+       "top": 2138,
+       "hsl": {
+        "h": 88,
+        "s": 0.28,
+        "l": 0.91
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#294435",
+       "share": 0.41
+      },
+      {
+       "color": "#1d5639",
+       "share": 0.12
+      },
+      {
+       "color": "#173e2d",
+       "share": 0.1
+      },
+      {
+       "color": "#54725d",
+       "share": 0.08
+      },
+      {
+       "color": "#e2e8d8",
+       "share": 0.06
+      }
+     ],
+     "button": {
+      "bg": "#d9ebad",
+      "hsl": {
+       "h": 77,
+       "s": 0.61,
+       "l": 0.8
+      },
+      "fg": "#193b2a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 5,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore Suan Luang"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 1,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.36
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4117,
+    "margins": {
+     "left": 62,
+     "right": 64
+    },
+    "sections": [
+     {
+      "sel": "section.home-hero",
+      "tag": "section",
+      "top": 72,
+      "height": 1026,
+      "words": 29,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "GREEN",
+       "size": 112,
+       "tag": "h1"
+      },
+      "left": 62,
+      "right": 62,
+      "textLeft": 64,
+      "textRight": 300,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#home-story.home-aoi",
+      "tag": "section",
+      "top": 1098,
+      "height": 924,
+      "words": 41,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Start with a place.",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 64,
+      "right": 64,
+      "textLeft": 64,
+      "textRight": 279,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.home-challenges",
+      "tag": "section",
+      "top": 2138,
+      "height": 635,
+      "words": 35,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What keeps green within reach?",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 88,
+      "right": 88,
+      "textLeft": 88,
+      "textRight": 188,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.home-hackathon",
+      "tag": "section",
+      "top": 2865,
+      "height": 765,
+      "words": 61,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "From pixels to policy",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 102,
+      "right": 102,
+      "textLeft": 102,
+      "textRight": 118,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "nav.home-next-links",
+      "tag": "nav",
+      "top": 3722,
+      "height": 323,
+      "words": 7,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Policy",
+       "size": 26,
+       "tag": "strong"
+      },
+      "left": 95,
+      "right": 508,
+      "textLeft": 95,
+      "textRight": 508,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "GREEN Lantern",
+      "size": 112,
+      "top": 144,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 64,
+      "n": 6
+     },
+     {
+      "x": 102,
+      "n": 2
+     },
+     {
+      "x": 88,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    1,
+    0.89,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 15,
+    "css": 15,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 3686,
+     "screens": 4.4,
+     "words": 168,
+     "img": 1,
+     "video": 0,
+     "canvas": 1,
+     "svg": 14,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "suan_luang-BPAT_Unu.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "GREEN Lantern",
+     "words": 2,
+     "chars": 13,
+     "lines": 2,
+     "size": 62.4,
+     "vw": 16,
+     "font": "Aptos Display",
+     "weight": 800,
+     "tracking": -0.075,
+     "leading": 0.78,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.52,
+     "top": 112,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "GREEN Lantern",
+     "words": 2,
+     "lines": 2,
+     "size": 62.4,
+     "font": "Aptos Display"
+    },
+    "headings": [
+     {
+      "text": "GREEN Lantern",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 62.4,
+      "vw": 16,
+      "font": "Aptos Display",
+      "weight": 800,
+      "tracking": -0.075,
+      "leading": 0.78,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.52,
+      "top": 112,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Start with a place.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 39,
+      "vw": 10,
+      "font": "Aptos Display",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 985,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Suan Luang",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Aptos Display",
+      "weight": 600,
+      "tracking": -0.06,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1410,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "What keeps green within reach?",
+      "words": 5,
+      "chars": 30,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Aptos Display",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 1797,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Unequal Green Access",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Aptos",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.62,
+      "top": 2203,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "From pixels to policy",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Aptos Display",
+      "weight": 620,
+      "tracking": -0.055,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 2524,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Policy",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Aptos",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.69,
+      "top": 3397,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "District analysis",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Aptos",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.69,
+      "top": 3553,
+      "tag": "strong",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Aptos",
+       "share": 0.92,
+       "mono": false
+      },
+      {
+       "family": "Aptos Display",
+       "share": 0.08,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      21,
+      24,
+      26,
+      36,
+      39,
+      48,
+      62
+     ],
+     "sizeCount": 13,
+     "notLoaded": [],
+     "body": {
+      "font": "Aptos",
+      "size": 17,
+      "leading": 1.75,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.8
+     },
+     "measureChars": 35,
+     "max": {
+      "size": 62.4,
+      "vw": 16,
+      "font": "Aptos Display",
+      "text": "GREEN"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#121212",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#f3f7ef",
+       "top": 0,
+       "hsl": {
+        "h": 90,
+        "s": 0.33,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#173e2d",
+       "top": 60,
+       "hsl": {
+        "h": 154,
+        "s": 0.46,
+        "l": 0.17
+       }
+      },
+      {
+       "color": "#e8eee1",
+       "top": 1765,
+       "hsl": {
+        "h": 88,
+        "s": 0.28,
+        "l": 0.91
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#294435",
+       "share": 0.41
+      },
+      {
+       "color": "#1d5639",
+       "share": 0.12
+      },
+      {
+       "color": "#173e2d",
+       "share": 0.1
+      },
+      {
+       "color": "#54725d",
+       "share": 0.08
+      },
+      {
+       "color": "#e2e8d8",
+       "share": 0.06
+      }
+     ],
+     "button": {
+      "bg": "#d9ebad",
+      "hsl": {
+       "h": 77,
+       "s": 0.61,
+       "l": 0.8
+      },
+      "fg": "#193b2a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 5,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore Suan Luang"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 1,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.34
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 60,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 3686,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section.home-hero",
+      "tag": "section",
+      "top": 60,
+      "height": 843,
+      "words": 29,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "GREEN",
+       "size": 62,
+       "tag": "h1"
+      },
+      "left": 13,
+      "right": 13,
+      "textLeft": 24,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#home-story.home-aoi",
+      "tag": "section",
+      "top": 903,
+      "height": 776,
+      "words": 41,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Suan Luang",
+       "size": 48,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 74,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.home-challenges",
+      "tag": "section",
+      "top": 1765,
+      "height": 647,
+      "words": 35,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What keeps green within reach?",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 40,
+      "right": 40,
+      "textLeft": 40,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.home-hackathon",
+      "tag": "section",
+      "top": 2496,
+      "height": 750,
+      "words": 61,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "From pixels to policy",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 48,
+      "textLeft": 48,
+      "textRight": 49,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "nav.home-next-links",
+      "tag": "nav",
+      "top": 3320,
+      "height": 294,
+      "words": 7,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Policy",
+       "size": 24,
+       "tag": "strong"
+      },
+      "left": 45,
+      "right": 193,
+      "textLeft": 45,
+      "textRight": 193,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "GREEN Lantern",
+      "size": 62,
+      "top": 112,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 6
+     },
+     {
+      "x": 40,
+      "n": 3
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "13 different font sizes (13, 14, 15, 16, 17, 18, 28, 40, 42, 62, 66, 68, 135).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 1 picture(s) on the page (1 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 15 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\inspect\\home-after\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\inspect\\home-after\\desktop-page-01.jpg",
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\inspect\\home-after\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\inspect\\home-after\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\inspect\\home-after\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\inspect\\home-after\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Year 3\\GeoHackathon\\UI-Front\\.taste-skill\\inspect\\home-after\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
