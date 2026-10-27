@@ -2,7 +2,7 @@
 
 **A greener city within everyone's reach.**
 
-[🌐 Live Website](https://yuden5.github.io/Green-Lantern/) · [GitHub Repository](https://github.com/Yuden5/Green-Lantern)
+[Live Website](https://yuden5.github.io/Green-Lantern/) 
 
 Green Lantern is a GeoHackathon 2026 project exploring how data and urban policy can support more accessible and equitable green spaces in Bangkok, with a focus on **Green Bangkok 2030**.
 
