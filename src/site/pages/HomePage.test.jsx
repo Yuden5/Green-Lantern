@@ -12,7 +12,9 @@ describe('HomePage', () => {
 
     expect(screen.getByRole('heading', { level: 1, name: /Green Lantern/i })).toBeTruthy();
     expect(screen.getByRole('img', { name: /floating low-poly island reused in our mission/i })).toBeTruthy();
-    expect(screen.getByRole('link', { name: /Explore the Green Dashboard/i }).getAttribute('href')).toBe('#/dashboard');
+    expect(screen.getByRole('link', { name: /Explore the Green Dashboard/i }).getAttribute('href')).toBe(
+      'https://sorrymybadmmiv.github.io/Green-zone-UI-V3/',
+    );
     expect(screen.queryByRole('link', { name: /Start with Suan Luang/i })).toBeNull();
     expect(screen.queryByRole('link', { name: /Discover the atlas/i })).toBeNull();
     expect(screen.getByRole('img', { name: /Two leafy trees shade a park bench/i })).toBeTruthy();

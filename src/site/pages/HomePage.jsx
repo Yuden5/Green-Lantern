@@ -57,7 +57,7 @@ export default function HomePage() {
             <h1 aria-label="GREEN Lantern"><span>GREEN</span><span>Lantern</span></h1>
             <p className="home-hero-context">A Bangkok atlas for exploring neighbourhood green spaces and access.</p>
             <div className="home-hero-actions">
-              <a className="home-dashboard-button" href="#/dashboard">
+              <a className="home-dashboard-button" href="https://sorrymybadmmiv.github.io/Green-zone-UI-V3/">
                 Explore the Green Dashboard <ArrowUpRight size={17} aria-hidden="true" />
               </a>
             </div>
